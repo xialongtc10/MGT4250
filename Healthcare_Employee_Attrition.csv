@@ -1,0 +1,670 @@
+EmployeeID,Age,Attrition,DailyRate,Department,DistanceFromHome,Education,EducationField,EmployeeCount,EnvironmentSatisfaction,Gender,HourlyRate,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,MonthlyRate,NumCompaniesWorked,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StandardHours,Shift,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager
+1313919,41,No,1102,Cardiology,1,2,Life Sciences,1,2,Female,94,3,2,Nurse,4,Single,5993,19479,8,11,3,1,80,0,8,0,1,6,4,0,5
+1200302,49,No,279,Maternity,8,1,Life Sciences,1,3,Male,61,2,2,Other,2,Married,5130,24907,1,23,4,4,80,1,10,3,3,10,7,1,7
+1060315,37,Yes,1373,Maternity,2,2,Other,1,4,Male,92,2,1,Nurse,3,Single,2090,2396,6,15,3,2,80,0,7,3,3,0,0,0,0
+1272912,33,No,1392,Maternity,3,4,Life Sciences,1,4,Female,56,3,1,Other,3,Married,2909,23159,1,11,3,3,80,0,8,3,3,8,7,3,0
+1414939,27,No,591,Maternity,2,1,Medical,1,1,Male,40,3,1,Nurse,2,Married,3468,16632,9,12,3,4,80,1,6,3,3,2,2,2,2
+1633361,32,No,1005,Maternity,2,2,Life Sciences,1,4,Male,79,3,1,Nurse,4,Single,3068,11864,0,13,3,3,80,0,8,2,2,7,7,3,6
+1329390,59,No,1324,Maternity,3,3,Medical,1,3,Female,81,4,1,Nurse,1,Married,2670,9964,4,20,4,1,80,3,12,3,2,1,0,0,0
+1699288,30,No,1358,Maternity,24,1,Life Sciences,1,4,Male,67,3,1,Nurse,3,Divorced,2693,13335,1,22,4,2,80,1,1,2,3,1,0,0,0
+1469740,38,No,216,Maternity,23,3,Life Sciences,1,4,Male,44,2,3,Therapist,3,Single,9526,8787,0,21,4,2,80,0,10,2,3,9,7,1,8
+1101291,36,No,1299,Maternity,27,3,Medical,1,3,Male,94,3,2,Nurse,3,Married,5237,16577,6,13,3,2,80,2,17,3,2,7,7,7,7
+1430504,35,No,809,Maternity,16,3,Medical,1,1,Male,84,4,1,Nurse,2,Married,2426,16479,0,13,3,3,80,1,6,5,3,5,4,0,3
+1196281,29,No,153,Maternity,15,2,Life Sciences,1,4,Female,49,2,2,Nurse,3,Single,4193,12682,0,12,3,4,80,0,10,3,3,9,5,0,8
+1207951,31,No,670,Maternity,26,1,Life Sciences,1,1,Male,31,3,1,Other,3,Divorced,2911,15170,1,17,3,4,80,1,5,1,2,5,2,4,3
+1080660,34,No,1346,Maternity,19,2,Medical,1,2,Male,93,3,1,Nurse,4,Divorced,2661,8758,0,11,3,3,80,1,3,2,3,2,2,1,2
+1420391,28,Yes,103,Maternity,24,3,Life Sciences,1,3,Male,50,2,1,Nurse,3,Single,2028,12947,5,14,3,2,80,0,6,4,3,4,2,0,3
+1337254,29,No,1389,Maternity,21,4,Life Sciences,1,2,Female,51,4,3,Therapist,1,Divorced,9980,10195,1,11,3,3,80,1,10,1,3,10,9,8,8
+1421335,32,No,334,Maternity,5,2,Life Sciences,1,1,Male,80,4,1,Other,2,Divorced,3298,15053,0,12,3,4,80,2,7,5,2,6,2,0,5
+1262683,22,No,1123,Maternity,16,2,Medical,1,4,Male,96,4,1,Nurse,4,Divorced,2935,7324,1,13,3,2,80,2,1,2,2,1,0,0,0
+1599218,53,No,1219,Cardiology,2,4,Life Sciences,1,1,Female,78,2,4,Administrative,4,Married,15427,22021,2,16,3,3,80,0,31,3,3,25,8,3,7
+1634788,38,No,371,Maternity,2,3,Life Sciences,1,4,Male,45,3,1,Other,4,Single,3944,4306,5,11,3,3,80,0,6,3,3,3,2,1,2
+1334559,24,No,673,Maternity,11,2,Other,1,1,Female,96,4,2,Therapist,3,Divorced,4011,8232,0,18,3,4,80,1,5,5,2,4,2,1,3
+1402945,36,No,1218,Cardiology,9,4,Life Sciences,1,3,Male,82,2,1,Other,1,Single,3407,6986,7,23,4,2,80,0,10,4,3,5,3,0,3
+1705718,34,No,419,Neurology,7,4,Life Sciences,1,1,Female,53,3,3,Other,2,Single,11994,21293,0,11,3,3,80,0,13,4,3,12,6,2,11
+1880078,21,No,391,Maternity,15,2,Life Sciences,1,3,Male,96,3,1,Other,4,Single,1232,19281,1,14,3,4,80,0,0,6,3,0,0,0,0
+1801346,34,No,699,Maternity,6,1,Medical,1,2,Male,83,3,1,Other,1,Single,2960,17102,2,11,3,3,80,0,8,2,3,4,2,1,3
+1142160,53,No,1282,Neurology,5,3,Other,1,3,Female,58,3,5,Other,3,Divorced,19094,10735,4,11,3,4,80,1,26,3,2,14,13,4,8
+1142062,32,Yes,1125,Maternity,16,1,Life Sciences,1,2,Female,72,1,1,Other,1,Single,3919,4681,1,22,4,2,80,0,10,5,3,10,2,6,7
+1789756,42,No,691,Cardiology,8,4,Marketing,1,3,Male,48,3,2,Nurse,2,Married,6825,21173,0,11,3,4,80,1,10,2,3,9,7,4,2
+1126009,44,No,477,Maternity,7,4,Medical,1,1,Female,42,2,3,Nurse,4,Married,10248,2094,3,14,3,4,80,1,24,4,3,22,6,5,17
+1552176,46,No,705,Cardiology,2,4,Marketing,1,2,Female,83,3,5,Administrative,1,Single,18947,22822,3,12,3,4,80,0,22,2,2,2,2,2,1
+1118605,33,No,924,Maternity,2,3,Medical,1,3,Male,78,3,1,Nurse,4,Single,2496,6670,4,11,3,4,80,0,7,3,3,1,1,0,0
+1397325,44,No,1459,Maternity,10,4,Other,1,4,Male,41,3,2,Nurse,4,Married,6465,19121,2,13,3,4,80,0,9,5,4,4,2,1,3
+1874834,30,No,125,Maternity,9,2,Medical,1,4,Male,83,2,1,Nurse,3,Single,2206,16117,1,13,3,1,80,0,10,5,3,10,0,1,8
+1275746,39,No,895,Cardiology,5,3,Technical Degree,1,4,Male,56,3,2,Other,4,Married,2086,3335,3,14,3,3,80,1,19,6,4,1,0,0,0
+1884939,24,Yes,813,Maternity,1,3,Medical,1,2,Male,61,3,1,Other,4,Married,2293,3020,2,16,3,1,80,1,6,2,2,2,0,2,0
+1650304,43,No,1273,Maternity,2,2,Medical,1,4,Female,72,4,1,Other,3,Divorced,2645,21923,1,12,3,4,80,2,6,3,2,5,3,1,4
+1058169,50,Yes,869,Cardiology,3,2,Marketing,1,1,Male,86,2,1,Other,3,Married,2683,3810,1,14,3,3,80,0,3,2,3,3,2,0,2
+1319183,35,No,890,Cardiology,2,3,Marketing,1,4,Female,97,3,1,Other,4,Married,2014,9687,1,13,3,1,80,0,2,3,3,2,2,2,2
+1872551,36,No,852,Maternity,5,4,Life Sciences,1,2,Female,82,2,1,Other,1,Married,3419,13072,9,14,3,4,80,1,6,3,4,1,1,0,0
+1060693,33,No,1141,Cardiology,1,3,Life Sciences,1,3,Female,42,4,2,Nurse,1,Married,5376,3193,2,19,3,1,80,2,10,3,3,5,3,1,3
+1110390,35,No,464,Maternity,4,2,Other,1,3,Male,75,3,1,Nurse,4,Divorced,1951,10910,1,12,3,3,80,1,1,3,3,1,0,0,0
+1448895,27,No,1240,Maternity,2,4,Life Sciences,1,4,Female,33,3,1,Nurse,1,Divorced,2341,19715,1,13,3,4,80,1,1,6,3,1,0,0,0
+1547220,26,Yes,1357,Maternity,25,3,Life Sciences,1,1,Male,48,1,1,Nurse,3,Single,2293,10558,1,12,3,3,80,0,1,2,2,1,0,0,1
+1680993,27,No,994,Cardiology,8,3,Life Sciences,1,4,Male,37,3,3,Nurse,3,Single,8726,2975,1,15,3,4,80,0,9,0,3,9,8,1,7
+1100187,30,No,721,Maternity,1,2,Medical,1,3,Female,58,3,2,Nurse,4,Single,4011,10781,1,23,4,4,80,0,12,2,3,12,8,3,7
+1881631,41,No,1360,Neurology,12,3,Technical Degree,1,2,Female,49,3,5,Other,3,Married,19545,16280,1,12,3,4,80,0,23,0,3,22,15,15,8
+1622068,34,No,1065,Cardiology,23,4,Marketing,1,2,Male,72,3,2,Nurse,3,Single,4568,10034,0,20,4,3,80,0,10,2,3,9,5,8,7
+1336903,37,No,408,Maternity,19,2,Life Sciences,1,2,Male,73,3,1,Other,2,Married,3022,10227,4,21,4,1,80,0,8,1,3,1,0,0,0
+1126243,46,No,1211,Cardiology,5,4,Marketing,1,1,Male,98,3,2,Nurse,4,Single,5772,20445,4,21,4,3,80,0,14,4,3,9,6,0,8
+1053707,35,No,1229,Maternity,8,1,Life Sciences,1,4,Male,36,4,1,Nurse,4,Married,2269,4892,1,19,3,4,80,0,1,2,3,1,0,0,1
+1708688,48,Yes,626,Maternity,1,2,Life Sciences,1,1,Male,98,2,3,Nurse,3,Single,5381,19294,9,13,3,4,80,0,23,2,3,1,0,0,0
+1208582,28,Yes,1434,Maternity,5,4,Technical Degree,1,3,Male,50,3,1,Nurse,3,Single,3441,11179,1,13,3,3,80,0,2,3,2,2,2,2,2
+1127416,44,No,1488,Cardiology,1,5,Marketing,1,2,Female,75,3,2,Nurse,1,Divorced,5454,4009,5,21,4,3,80,1,9,2,2,4,3,1,3
+1710090,35,No,1097,Maternity,11,2,Medical,1,3,Male,79,2,3,Nurse,1,Married,9884,8302,2,13,3,3,80,1,10,3,3,4,0,2,3
+1146606,26,Yes,1443,Cardiology,23,3,Marketing,1,3,Female,47,2,2,Nurse,4,Married,4157,21436,7,19,3,3,80,1,5,2,2,2,2,0,0
+1674685,33,No,515,Neurology,1,2,Life Sciences,1,1,Female,98,3,3,Other,4,Single,13458,15146,1,12,3,3,80,0,15,1,3,15,14,8,12
+1477077,35,No,853,Cardiology,18,5,Life Sciences,1,2,Male,71,3,3,Nurse,1,Married,9069,11031,1,22,4,4,80,1,9,3,2,9,8,1,8
+1269275,35,No,1142,Maternity,23,4,Medical,1,3,Female,30,3,1,Nurse,1,Married,4014,16002,3,15,3,3,80,1,4,3,3,2,2,2,2
+1620694,31,No,655,Maternity,7,4,Life Sciences,1,4,Male,48,3,2,Nurse,4,Divorced,5915,9528,3,22,4,4,80,1,10,3,2,7,7,1,7
+1618486,37,No,1115,Neurology,1,4,Life Sciences,1,1,Male,51,2,2,Therapist,3,Divorced,5993,2689,1,18,3,3,80,1,7,2,4,7,5,0,7
+1208054,32,No,427,Neurology,1,3,Medical,1,1,Male,33,3,2,Therapist,4,Married,6162,10877,1,22,4,2,80,1,9,3,3,9,8,7,8
+1545352,38,No,653,Maternity,29,5,Life Sciences,1,4,Female,50,3,2,Nurse,4,Single,2406,5456,1,11,3,4,80,0,10,2,3,10,3,9,9
+1665908,50,No,989,Neurology,7,2,Medical,1,2,Female,43,2,5,Other,3,Divorced,18740,16701,5,12,3,4,80,1,29,2,2,27,3,13,8
+1312106,59,No,1435,Cardiology,25,3,Life Sciences,1,1,Female,99,3,3,Nurse,1,Single,7637,2354,7,11,3,4,80,0,28,3,2,21,16,7,9
+1391215,36,No,1223,Maternity,8,3,Technical Degree,1,3,Female,59,3,3,Nurse,3,Divorced,10096,8202,1,13,3,2,80,3,17,2,3,17,14,12,8
+1677994,55,No,836,Neurology,8,3,Medical,1,4,Female,33,3,4,Other,3,Divorced,14756,19730,2,14,3,3,80,3,21,2,3,5,0,0,2
+1216003,36,No,1195,Maternity,11,3,Life Sciences,1,2,Male,95,2,2,Therapist,2,Single,6499,22656,1,13,3,3,80,0,6,3,3,6,5,0,3
+1503437,45,No,1339,Maternity,7,3,Life Sciences,1,2,Male,59,3,3,Other,1,Divorced,9724,18787,2,17,3,3,80,1,25,2,3,1,0,0,0
+1381585,35,No,664,Maternity,1,3,Medical,1,2,Male,79,3,1,Other,1,Married,2194,5868,4,13,3,4,80,1,5,2,2,3,2,1,2
+1312369,36,Yes,318,Maternity,9,3,Medical,1,4,Male,79,2,1,Other,3,Married,3388,21777,0,17,3,1,80,1,2,0,2,1,0,0,0
+1576355,59,No,1225,Cardiology,1,1,Life Sciences,1,1,Female,57,2,2,Nurse,3,Single,5473,24668,7,11,3,4,80,0,20,2,2,4,3,1,3
+1659485,29,No,1328,Maternity,2,3,Life Sciences,1,3,Male,76,3,1,Other,2,Married,2703,4956,0,23,4,4,80,1,6,3,3,5,4,0,4
+1530200,31,No,1082,Maternity,1,4,Medical,1,3,Male,87,3,1,Other,2,Single,2501,18775,1,17,3,2,80,0,1,4,3,1,1,1,0
+1773482,32,No,548,Maternity,1,3,Life Sciences,1,2,Male,66,3,2,Other,2,Married,6220,7346,1,17,3,2,80,2,10,3,3,10,4,0,9
+1188108,36,No,132,Maternity,6,3,Life Sciences,1,2,Female,55,4,1,Nurse,4,Married,3038,22002,3,12,3,2,80,0,5,3,3,1,0,0,0
+1471418,31,No,746,Cardiology,8,4,Life Sciences,1,3,Female,61,3,2,Therapist,4,Single,4424,20682,1,23,4,4,80,0,11,2,3,11,7,1,8
+1081842,35,No,776,Cardiology,1,4,Marketing,1,3,Male,32,2,2,Nurse,1,Single,4312,23016,0,14,3,2,80,0,16,2,3,15,13,2,8
+1146021,45,No,193,Neurology,6,4,Other,1,4,Male,52,3,3,Other,1,Married,13245,15067,4,14,3,2,80,0,17,3,4,0,0,0,0
+1880248,37,No,397,Neurology,7,4,Medical,1,1,Male,30,3,3,Other,3,Single,13664,25258,4,13,3,1,80,0,16,3,4,5,2,0,2
+1267807,46,No,945,Neurology,5,2,Medical,1,2,Male,80,3,2,Other,2,Divorced,5021,10425,8,22,4,4,80,1,16,2,3,4,2,0,2
+1247348,30,No,852,Maternity,1,1,Life Sciences,1,4,Male,55,2,2,Nurse,4,Married,5126,15998,1,12,3,3,80,2,10,1,2,10,8,3,0
+1886039,35,No,1214,Maternity,1,3,Medical,1,2,Male,30,2,1,Other,3,Single,2859,26278,1,18,3,1,80,0,6,3,3,6,4,0,4
+1134060,55,No,111,Cardiology,1,2,Life Sciences,1,1,Male,70,3,3,Nurse,4,Married,10239,18092,3,14,3,4,80,1,24,4,3,1,0,1,0
+1403326,38,No,573,Maternity,6,3,Medical,1,2,Female,79,1,2,Other,4,Divorced,5329,15717,7,12,3,4,80,3,17,3,3,13,11,1,9
+1689558,34,No,1153,Neurology,1,2,Medical,1,1,Male,94,3,2,Therapist,2,Married,4325,17736,1,15,3,3,80,0,5,2,3,5,2,1,3
+1122798,56,No,1400,Neurology,7,3,Life Sciences,1,4,Male,49,1,3,Therapist,4,Single,7260,21698,4,11,3,1,80,0,37,3,2,6,4,0,2
+1477348,23,No,541,Cardiology,2,1,Technical Degree,1,3,Male,62,3,1,Other,1,Divorced,2322,9518,3,13,3,3,80,1,3,3,3,0,0,0,0
+1061371,51,No,432,Maternity,9,4,Life Sciences,1,4,Male,96,3,1,Nurse,4,Married,2075,18725,3,23,4,2,80,2,10,4,3,4,2,0,3
+1535342,30,No,288,Maternity,2,3,Life Sciences,1,3,Male,99,2,2,Nurse,4,Married,4152,15830,1,19,3,1,80,3,11,3,3,11,10,10,8
+1386780,46,No,669,Cardiology,9,2,Medical,1,3,Male,64,2,3,Nurse,4,Single,9619,13596,1,16,3,4,80,0,9,3,3,9,8,4,7
+1254775,40,No,530,Maternity,1,4,Life Sciences,1,3,Male,78,2,4,Nurse,2,Married,13503,14115,1,22,4,4,80,1,22,3,2,22,3,11,11
+1818921,51,No,632,Cardiology,21,4,Marketing,1,3,Male,71,3,2,Nurse,4,Single,5441,8423,0,22,4,4,80,0,11,2,1,10,7,1,0
+1848882,30,No,1334,Cardiology,4,2,Medical,1,3,Female,63,2,2,Nurse,2,Divorced,5209,19760,1,12,3,2,80,3,11,4,2,11,8,2,7
+1537412,46,No,638,Maternity,1,3,Medical,1,3,Male,40,2,3,Nurse,1,Married,10673,3142,2,13,3,3,80,1,21,5,2,10,9,9,5
+1231380,32,No,1093,Cardiology,6,4,Medical,1,2,Male,87,3,2,Nurse,3,Single,5010,24301,1,16,3,1,80,0,12,0,3,11,8,5,7
+1843825,37,Yes,807,Neurology,6,4,Human Resources,1,3,Male,63,3,1,Other,1,Divorced,2073,23648,4,22,4,4,80,0,7,3,3,3,2,0,2
+1088304,20,Yes,871,Maternity,6,3,Life Sciences,1,4,Female,66,2,1,Nurse,4,Single,2926,19783,1,18,3,2,80,0,1,5,3,1,0,1,0
+1410589,25,Yes,240,Cardiology,5,3,Marketing,1,3,Male,46,2,2,Nurse,3,Single,5744,26959,1,11,3,4,80,0,6,1,3,6,4,0,3
+1851151,34,Yes,658,Maternity,7,3,Life Sciences,1,1,Male,66,1,2,Nurse,3,Single,6074,22887,1,24,4,4,80,0,9,3,3,9,7,0,6
+1515486,56,Yes,441,Maternity,14,4,Life Sciences,1,2,Female,72,3,1,Other,2,Married,4963,4510,9,18,3,1,80,3,7,2,3,5,4,4,3
+1031688,31,Yes,249,Cardiology,6,4,Life Sciences,1,2,Male,76,1,2,Nurse,3,Married,6172,20739,4,18,3,2,80,0,12,3,2,7,7,7,7
+1842764,19,Yes,528,Cardiology,22,1,Marketing,1,4,Male,50,3,1,Other,3,Single,1675,26820,1,19,3,4,80,0,0,2,2,0,0,0,0
+1810242,31,Yes,542,Cardiology,20,3,Life Sciences,1,2,Female,71,1,2,Nurse,3,Married,4559,24788,3,11,3,3,80,1,4,2,3,2,2,2,2
+1612623,51,Yes,1150,Cardiology,8,4,Life Sciences,1,1,Male,53,1,3,Therapist,4,Single,10650,25150,2,15,3,4,80,0,18,2,3,4,2,0,3
+1113668,32,Yes,1033,Maternity,9,3,Medical,1,1,Female,41,3,1,Nurse,1,Single,4200,10224,7,22,4,1,80,0,10,2,4,5,4,0,4
+1224013,27,Yes,1450,Maternity,3,3,Medical,1,3,Male,79,2,1,Other,3,Divorced,2566,25326,1,15,3,4,80,1,1,2,2,1,1,0,1
+1820041,19,Yes,602,Cardiology,1,1,Technical Degree,1,3,Female,100,1,1,Other,1,Single,2325,20989,0,21,4,1,80,0,1,5,4,0,0,0,0
+1517594,19,Yes,303,Maternity,2,3,Life Sciences,1,2,Male,47,2,1,Nurse,4,Single,1102,9241,1,22,4,3,80,0,1,3,2,1,0,1,0
+1665761,38,No,1380,Maternity,9,2,Life Sciences,1,3,Female,75,3,1,Nurse,4,Single,2288,6319,1,12,3,3,80,0,2,3,3,2,2,2,1
+1224843,31,No,140,Maternity,12,1,Medical,1,3,Female,95,3,1,Other,4,Married,3929,6984,8,23,4,3,80,1,7,0,3,4,2,0,2
+1739412,34,No,629,Maternity,27,2,Medical,1,4,Female,95,3,1,Other,2,Single,2311,5711,2,15,3,4,80,0,9,3,3,3,2,1,2
+1190255,41,Yes,1356,Cardiology,20,2,Marketing,1,2,Female,70,3,1,Other,2,Single,3140,21728,1,22,4,4,80,0,4,5,2,4,3,0,2
+1820323,50,No,328,Maternity,1,3,Medical,1,3,Male,86,2,1,Nurse,3,Married,3690,3425,2,15,3,4,80,1,5,2,2,3,2,0,2
+1477195,53,No,1084,Maternity,13,2,Medical,1,4,Female,57,4,2,Therapist,1,Divorced,4450,26250,1,11,3,3,80,2,5,3,3,4,2,1,3
+1383313,33,No,931,Maternity,14,3,Medical,1,4,Female,72,3,1,Other,2,Married,2756,4673,1,13,3,4,80,1,8,5,3,8,7,1,6
+1385477,40,No,989,Neurology,4,1,Medical,1,4,Female,46,3,5,Other,3,Married,19033,6499,1,14,3,2,80,1,21,2,3,20,8,9,9
+1060337,55,No,692,Neurology,14,4,Medical,1,3,Male,61,4,5,Other,2,Single,18722,13339,8,11,3,4,80,0,36,3,3,24,15,2,15
+1180048,34,No,1069,Neurology,2,1,Life Sciences,1,4,Male,45,2,2,Therapist,3,Married,9547,14074,1,17,3,3,80,0,10,2,2,10,9,1,9
+1730525,51,No,313,Maternity,3,3,Medical,1,4,Female,98,3,4,Nurse,2,Single,13734,7192,3,18,3,3,80,0,21,6,3,7,7,1,0
+1173311,52,No,699,Neurology,1,4,Life Sciences,1,3,Male,65,2,5,Other,3,Married,19999,5678,0,14,3,1,80,1,34,5,3,33,18,11,9
+1155351,27,No,894,Maternity,9,3,Medical,1,4,Female,99,3,1,Other,2,Single,2279,11781,1,16,3,4,80,0,7,2,2,7,7,0,3
+1409777,35,Yes,556,Maternity,23,2,Life Sciences,1,2,Male,50,2,2,Therapist,3,Married,5916,15497,3,13,3,1,80,0,8,1,3,1,0,0,1
+1175384,43,No,1344,Maternity,7,3,Medical,1,4,Male,37,4,1,Other,4,Divorced,2089,5228,4,14,3,4,80,3,7,3,4,5,4,2,2
+1447981,45,No,1195,Neurology,2,2,Medical,1,1,Male,65,2,4,Other,4,Married,16792,20462,9,23,4,4,80,1,22,1,3,20,8,11,8
+1643490,37,No,290,Maternity,21,3,Life Sciences,1,2,Male,65,4,1,Other,1,Married,3564,22977,1,12,3,1,80,1,8,3,2,8,7,1,7
+1132287,35,No,138,Maternity,2,3,Medical,1,2,Female,37,3,2,Nurse,2,Single,4425,15986,5,11,3,4,80,0,10,5,3,6,2,1,2
+1238447,42,No,926,Maternity,21,2,Medical,1,3,Female,36,3,2,Therapist,3,Divorced,5265,16439,2,16,3,2,80,1,11,5,3,5,3,0,2
+1314186,38,No,1261,Neurology,2,4,Life Sciences,1,4,Male,88,3,2,Therapist,3,Married,6553,7259,9,14,3,2,80,0,14,3,3,1,0,0,0
+1416095,38,No,1084,Maternity,29,3,Technical Degree,1,4,Male,54,3,2,Therapist,4,Married,6261,4185,3,18,3,1,80,1,9,3,1,7,7,1,7
+1572943,27,No,472,Neurology,1,1,Technical Degree,1,3,Male,60,2,2,Therapist,1,Married,4298,9679,5,19,3,3,80,1,6,1,3,2,2,2,0
+1285655,49,No,1002,Maternity,18,4,Life Sciences,1,4,Male,92,3,2,Therapist,4,Divorced,6804,23793,1,15,3,1,80,2,7,0,3,7,7,1,7
+1620253,34,No,878,Maternity,10,4,Medical,1,4,Male,43,3,1,Other,3,Divorced,3815,5972,1,17,3,4,80,1,5,4,4,5,3,2,0
+1224749,40,No,905,Maternity,19,2,Medical,1,3,Male,99,3,2,Nurse,4,Married,2741,16523,8,15,3,3,80,1,15,2,4,7,2,3,7
+1056367,38,Yes,1180,Maternity,29,1,Medical,1,2,Male,70,3,2,Nurse,1,Married,6673,11354,7,19,3,2,80,0,17,2,3,1,0,0,0
+1446715,29,No,121,Cardiology,27,3,Marketing,1,2,Female,35,3,3,Nurse,4,Married,7639,24525,1,22,4,4,80,3,10,3,2,10,4,1,9
+1872375,22,No,1136,Maternity,5,3,Life Sciences,1,4,Male,60,4,1,Other,2,Divorced,2328,12392,1,16,3,1,80,1,4,2,2,4,2,2,2
+1251693,36,No,635,Maternity,18,1,Medical,1,2,Female,73,3,1,Nurse,4,Single,2153,7703,1,13,3,1,80,0,8,2,3,8,1,1,7
+1474327,40,No,1151,Maternity,9,5,Life Sciences,1,4,Male,63,2,2,Nurse,4,Married,4876,14242,9,14,3,4,80,1,5,5,1,3,2,0,2
+1721417,46,No,644,Maternity,1,4,Medical,1,4,Male,97,3,3,Nurse,1,Divorced,9396,12368,7,16,3,3,80,1,17,3,3,4,2,0,3
+1723897,32,No,1045,Cardiology,4,4,Medical,1,4,Male,32,1,3,Nurse,4,Married,10400,25812,1,11,3,3,80,0,14,2,2,14,8,9,8
+1847119,30,No,829,Neurology,1,1,Life Sciences,1,3,Male,88,2,3,Therapist,3,Single,8474,20925,1,22,4,3,80,0,12,2,3,11,8,5,8
+1213142,27,No,1242,Cardiology,20,3,Life Sciences,1,4,Female,90,3,2,Nurse,3,Single,9981,12916,1,14,3,4,80,0,7,2,3,7,7,0,7
+1155192,51,No,1469,Neurology,8,4,Life Sciences,1,2,Male,81,2,3,Other,2,Married,12490,15736,5,16,3,4,80,2,16,5,1,10,9,4,7
+1806025,30,Yes,1005,Maternity,3,3,Technical Degree,1,4,Female,88,3,1,Other,1,Single,2657,8556,5,11,3,3,80,0,8,5,3,5,2,0,4
+1296063,41,No,896,Cardiology,6,3,Life Sciences,1,4,Female,75,3,3,Administrative,4,Single,13591,14674,3,18,3,3,80,0,16,3,3,1,0,0,0
+1502689,30,Yes,334,Cardiology,26,4,Marketing,1,3,Female,52,2,2,Nurse,1,Single,6696,22967,5,15,3,3,80,0,9,5,2,6,3,0,1
+1849547,29,No,992,Maternity,1,3,Technical Degree,1,3,Male,85,3,1,Other,3,Single,2058,19757,0,14,3,4,80,0,7,1,2,6,2,1,5
+1715116,45,No,1052,Cardiology,6,3,Medical,1,4,Female,57,2,3,Nurse,4,Single,8865,16840,6,12,3,4,80,0,23,2,3,19,7,12,8
+1088447,54,No,1147,Cardiology,3,3,Marketing,1,4,Female,52,3,2,Nurse,1,Married,5940,17011,2,14,3,4,80,1,16,4,3,6,2,0,5
+1408349,36,No,1396,Maternity,5,2,Life Sciences,1,4,Male,62,3,2,Nurse,2,Single,5914,9945,8,16,3,4,80,0,16,3,4,13,11,3,7
+1291194,33,No,147,Maternity,4,4,Medical,1,3,Female,47,2,1,Other,2,Married,2622,13248,6,21,4,4,80,0,7,3,3,3,2,1,1
+1699240,37,No,663,Neurology,11,3,Other,1,2,Male,47,3,3,Other,4,Divorced,12185,10056,1,14,3,3,80,3,10,1,3,10,8,0,7
+1059303,38,No,119,Cardiology,3,3,Life Sciences,1,1,Male,76,3,3,Nurse,3,Divorced,10609,9647,0,12,3,3,80,2,17,6,2,16,10,5,13
+1530760,31,No,979,Neurology,1,4,Medical,1,3,Male,90,1,2,Therapist,3,Married,4345,4381,0,12,3,4,80,1,6,2,3,5,4,1,4
+1187985,59,No,142,Maternity,3,3,Life Sciences,1,3,Male,70,2,1,Other,4,Married,2177,8456,3,17,3,1,80,1,7,6,3,1,0,0,0
+1721312,37,No,319,Cardiology,4,4,Marketing,1,1,Male,41,3,1,Other,4,Divorced,2793,2539,4,17,3,3,80,1,13,2,3,9,8,5,8
+1129392,29,No,1413,Cardiology,1,1,Medical,1,2,Female,42,3,3,Nurse,4,Married,7918,6599,1,14,3,4,80,1,11,5,3,11,10,4,1
+1278690,35,No,944,Cardiology,1,3,Marketing,1,3,Female,92,3,3,Nurse,3,Single,8789,9096,1,14,3,1,80,0,10,3,4,10,7,0,8
+1118323,29,Yes,896,Maternity,18,1,Medical,1,3,Male,86,2,1,Other,4,Single,2389,14961,1,13,3,3,80,0,4,3,2,4,3,0,1
+1709918,52,No,1323,Maternity,2,3,Life Sciences,1,3,Female,89,2,1,Nurse,4,Single,3212,3300,7,15,3,2,80,0,6,3,2,2,2,2,2
+1470356,42,No,532,Neurology,4,2,Technical Degree,1,3,Male,58,3,5,Other,4,Married,19232,4933,1,11,3,4,80,0,22,3,3,22,17,11,15
+1128374,59,No,818,Neurology,6,2,Medical,1,2,Male,52,3,1,Other,3,Married,2267,25657,8,17,3,4,80,0,7,2,2,2,2,2,2
+1508741,50,No,854,Cardiology,1,4,Medical,1,4,Female,68,3,5,Administrative,4,Divorced,19517,24118,3,11,3,3,80,1,32,3,2,7,0,0,6
+1598911,33,Yes,813,Maternity,14,3,Medical,1,3,Male,58,3,1,Nurse,4,Married,2436,22149,5,13,3,3,80,1,8,2,1,5,4,0,4
+1177110,43,No,1034,Cardiology,16,3,Marketing,1,4,Female,80,3,4,Administrative,4,Married,16064,7744,5,22,4,3,80,1,22,3,3,17,13,1,9
+1484656,33,Yes,465,Maternity,2,2,Life Sciences,1,1,Female,39,3,1,Nurse,1,Married,2707,21509,7,20,4,1,80,0,13,3,4,9,7,1,7
+1693414,52,No,771,Cardiology,2,4,Life Sciences,1,1,Male,79,2,5,Administrative,3,Single,19068,21030,1,18,3,4,80,0,33,2,4,33,7,15,12
+1806233,32,No,1401,Cardiology,4,2,Life Sciences,1,3,Female,56,3,1,Other,2,Married,3931,20990,2,11,3,1,80,1,6,5,3,4,3,1,2
+1127107,32,Yes,515,Maternity,1,3,Life Sciences,1,4,Male,62,2,1,Nurse,3,Single,3730,9571,0,14,3,4,80,0,4,2,1,3,2,1,2
+1548210,39,No,1431,Maternity,1,4,Medical,1,3,Female,96,3,1,Nurse,3,Divorced,2232,15417,7,14,3,3,80,3,7,1,3,3,2,1,2
+1857248,32,No,976,Cardiology,26,4,Marketing,1,3,Male,100,3,2,Nurse,4,Married,4465,12069,0,18,3,1,80,0,4,2,3,3,2,2,2
+1491722,41,No,1411,Maternity,19,2,Life Sciences,1,3,Male,36,3,2,Other,1,Divorced,3072,19877,2,16,3,1,80,2,17,2,2,1,0,0,0
+1548175,40,No,1300,Maternity,24,2,Technical Degree,1,1,Male,62,3,2,Other,4,Divorced,3319,24447,1,17,3,1,80,2,9,3,3,9,8,4,7
+1197716,45,No,252,Neurology,1,3,Other,1,3,Male,70,4,5,Other,4,Married,19202,15970,0,11,3,3,80,1,25,2,3,24,0,1,7
+1275604,31,No,1327,Neurology,3,4,Medical,1,2,Male,73,3,3,Other,3,Divorced,13675,13523,9,12,3,1,80,1,9,3,3,2,2,2,2
+1632856,33,No,832,Maternity,5,4,Life Sciences,1,3,Female,63,2,1,Other,4,Married,2911,14776,1,13,3,3,80,1,2,2,2,2,2,0,2
+1874724,34,No,470,Neurology,2,4,Life Sciences,1,4,Male,84,2,2,Therapist,1,Married,5957,23687,6,13,3,2,80,1,13,3,3,11,9,5,9
+1133458,37,No,1017,Maternity,1,2,Medical,1,3,Female,83,2,1,Other,1,Married,3920,18697,2,14,3,1,80,1,17,2,2,3,1,0,2
+1213490,45,No,1199,Neurology,7,4,Life Sciences,1,1,Male,77,4,2,Therapist,3,Married,6434,5118,4,17,3,4,80,1,9,1,3,3,2,0,2
+1440072,37,No,504,Maternity,10,3,Medical,1,1,Male,61,3,3,Therapist,3,Divorced,10048,22573,6,11,3,2,80,2,17,5,3,1,0,0,0
+1492815,39,No,505,Maternity,2,4,Technical Degree,1,3,Female,64,3,3,Nurse,3,Single,10938,6420,0,25,4,4,80,0,20,1,3,19,6,11,8
+1322829,29,No,665,Maternity,15,3,Life Sciences,1,3,Male,60,3,1,Other,4,Single,2340,22673,1,19,3,1,80,0,6,1,3,6,5,1,5
+1453272,42,No,916,Maternity,17,2,Life Sciences,1,4,Female,82,4,2,Other,1,Single,6545,23016,3,13,3,3,80,0,10,1,3,3,2,0,2
+1234458,29,No,1247,Cardiology,20,2,Marketing,1,4,Male,45,3,2,Nurse,4,Divorced,6931,10732,2,14,3,4,80,1,10,2,3,3,2,0,2
+1336242,25,No,685,Neurology,1,3,Life Sciences,1,1,Female,62,3,2,Therapist,3,Married,4898,7505,0,12,3,4,80,2,5,3,3,4,2,1,2
+1068917,42,No,269,Maternity,2,3,Medical,1,4,Female,56,2,1,Nurse,1,Divorced,2593,8007,0,11,3,3,80,1,10,4,3,9,6,7,8
+1804073,40,No,1416,Neurology,2,2,Medical,1,1,Male,49,3,5,Other,3,Divorced,19436,5949,0,19,3,4,80,1,22,5,3,21,7,3,9
+1435995,51,No,833,Maternity,1,3,Life Sciences,1,3,Male,96,3,1,Other,4,Married,2723,23231,1,11,3,2,80,0,1,0,2,1,0,0,0
+1577501,31,No,307,Maternity,29,2,Medical,1,3,Male,71,2,1,Nurse,2,Single,3479,11652,0,11,3,2,80,0,6,2,4,5,4,1,4
+1075035,32,No,1311,Maternity,7,3,Life Sciences,1,2,Male,100,4,1,Nurse,2,Married,2794,26062,1,20,4,3,80,0,5,3,1,5,1,0,3
+1520532,38,No,1327,Cardiology,2,2,Life Sciences,1,4,Male,39,2,2,Nurse,4,Married,5249,19682,3,18,3,4,80,1,13,0,3,8,7,7,5
+1593179,32,No,128,Maternity,2,1,Technical Degree,1,4,Male,84,2,2,Nurse,1,Single,2176,19737,4,13,3,4,80,0,9,5,3,6,2,0,4
+1244300,46,No,488,Cardiology,2,3,Technical Degree,1,3,Female,75,1,4,Administrative,2,Married,16872,14977,3,12,3,2,80,1,28,2,2,7,7,7,7
+1622255,28,Yes,529,Maternity,2,4,Life Sciences,1,1,Male,79,3,1,Nurse,3,Single,3485,14935,2,11,3,3,80,0,5,5,1,0,0,0,0
+1662066,29,No,1210,Cardiology,2,3,Medical,1,1,Male,78,2,2,Nurse,2,Married,6644,3687,2,19,3,2,80,2,10,2,3,0,0,0,0
+1247928,31,No,1463,Maternity,23,3,Medical,1,2,Male,64,2,2,Nurse,4,Married,5582,14408,0,21,4,2,80,1,10,2,3,9,0,7,8
+1087213,25,No,675,Maternity,5,2,Life Sciences,1,2,Male,85,4,2,Nurse,1,Divorced,4000,18384,1,12,3,4,80,2,6,2,3,6,3,1,5
+1269016,45,No,1385,Maternity,20,2,Medical,1,3,Male,79,3,4,Nurse,4,Married,13496,7501,0,14,3,2,80,0,21,2,3,20,7,4,10
+1416436,36,No,1403,Maternity,6,3,Life Sciences,1,4,Male,47,3,1,Nurse,4,Married,3210,20251,0,11,3,3,80,1,16,4,3,15,13,10,11
+1124764,55,No,452,Neurology,1,3,Medical,1,4,Male,81,3,5,Other,1,Single,19045,18938,0,14,3,3,80,0,37,2,3,36,10,4,13
+1524494,47,Yes,666,Neurology,29,4,Life Sciences,1,1,Male,88,3,3,Other,2,Married,11849,10268,1,12,3,4,80,1,10,2,2,10,7,9,9
+1376531,28,No,1158,Maternity,9,3,Medical,1,4,Male,94,3,1,Other,4,Married,2070,2613,1,23,4,4,80,1,5,3,2,5,2,0,4
+1487080,37,No,228,Cardiology,6,4,Medical,1,3,Male,98,3,2,Nurse,4,Married,6502,22825,4,14,3,2,80,1,7,5,4,5,4,0,1
+1836214,21,No,996,Maternity,3,2,Medical,1,4,Male,100,2,1,Other,3,Single,3230,10531,1,17,3,1,80,0,3,4,4,3,2,1,0
+1397780,37,No,728,Neurology,1,4,Medical,1,1,Female,80,3,3,Other,4,Divorced,13603,11677,2,18,3,1,80,2,15,2,3,5,2,0,2
+1281199,35,No,1315,Neurology,22,3,Life Sciences,1,2,Female,71,4,3,Other,2,Divorced,11996,19100,7,18,3,2,80,1,10,6,2,7,7,6,2
+1566712,38,No,322,Cardiology,7,2,Medical,1,1,Female,44,4,2,Nurse,1,Divorced,5605,19191,1,24,4,3,80,1,8,3,3,8,0,7,7
+1256655,26,No,1479,Neurology,1,3,Life Sciences,1,3,Female,84,3,2,Therapist,2,Divorced,6397,26767,1,20,4,1,80,1,6,6,1,6,5,1,4
+1187620,50,No,797,Neurology,4,1,Life Sciences,1,1,Male,96,3,5,Other,2,Divorced,19144,15815,3,14,3,1,80,2,28,4,2,10,4,1,6
+1032001,53,No,1070,Neurology,3,4,Medical,1,3,Male,45,3,4,Other,3,Married,17584,21016,3,16,3,4,80,3,21,5,2,5,3,1,3
+1220520,42,No,635,Cardiology,1,1,Life Sciences,1,2,Male,99,3,2,Nurse,3,Married,4907,24532,1,25,4,3,80,0,20,3,3,20,16,11,6
+1524207,29,No,442,Cardiology,2,2,Life Sciences,1,2,Male,44,3,2,Nurse,4,Single,4554,20260,1,18,3,1,80,0,10,3,2,10,7,0,9
+1552398,55,No,147,Maternity,20,2,Technical Degree,1,2,Male,37,3,2,Nurse,4,Married,5415,15972,3,19,3,4,80,1,12,4,3,10,7,0,8
+1753629,26,No,496,Maternity,11,2,Medical,1,1,Male,60,3,2,Nurse,1,Married,4741,22722,1,13,3,3,80,1,5,3,3,5,3,3,3
+1649314,37,No,1372,Maternity,1,3,Life Sciences,1,4,Female,42,3,1,Other,4,Single,2115,15881,1,12,3,2,80,0,17,3,3,17,12,5,7
+1353021,44,Yes,920,Maternity,24,3,Life Sciences,1,4,Male,43,3,1,Nurse,3,Divorced,3161,19920,3,22,4,4,80,1,19,0,1,1,0,0,0
+1704408,38,No,688,Maternity,23,4,Life Sciences,1,4,Male,82,3,2,Nurse,4,Divorced,5745,18899,9,14,3,2,80,1,10,2,3,2,2,1,2
+1031524,26,Yes,1449,Maternity,16,4,Medical,1,1,Male,45,3,1,Nurse,2,Divorced,2373,14180,2,13,3,4,80,1,5,2,3,3,2,0,2
+1124932,28,No,1117,Maternity,8,2,Life Sciences,1,4,Female,66,3,1,Other,4,Single,3310,4488,1,21,4,4,80,0,5,3,3,5,3,0,2
+1865139,49,No,636,Neurology,10,4,Life Sciences,1,3,Female,35,3,5,Other,1,Single,18665,25594,9,11,3,4,80,0,22,4,3,3,2,1,2
+1158764,36,No,506,Maternity,3,3,Technical Degree,1,3,Male,30,3,2,Other,2,Single,4485,26285,4,12,3,4,80,0,10,2,3,8,0,7,7
+1794901,31,No,444,Cardiology,5,3,Marketing,1,4,Female,84,3,1,Other,2,Divorced,2789,3909,1,11,3,3,80,1,2,5,2,2,2,2,2
+1707521,26,Yes,950,Cardiology,4,4,Marketing,1,4,Male,48,2,2,Nurse,4,Single,5828,8450,1,12,3,2,80,0,8,0,3,8,7,7,4
+1628660,37,No,889,Maternity,9,3,Medical,1,2,Male,53,3,1,Other,4,Married,2326,11411,1,12,3,3,80,3,4,3,2,4,2,1,2
+1099592,42,No,555,Cardiology,26,3,Marketing,1,3,Female,77,3,4,Nurse,2,Married,13525,14864,5,14,3,4,80,1,23,2,4,20,4,4,8
+1837825,18,No,230,Maternity,3,3,Life Sciences,1,3,Male,54,3,1,Nurse,3,Single,1420,25233,1,13,3,3,80,0,0,2,3,0,0,0,0
+1284393,35,No,1232,Cardiology,16,3,Marketing,1,3,Male,96,3,3,Nurse,2,Married,8020,5100,0,15,3,3,80,2,12,3,2,11,9,6,9
+1720804,36,No,566,Maternity,18,4,Life Sciences,1,3,Male,81,4,1,Nurse,4,Married,3688,7122,4,18,3,4,80,2,4,2,3,1,0,0,0
+1749725,51,No,1302,Neurology,2,3,Medical,1,4,Male,84,1,2,Therapist,2,Divorced,5482,16321,5,18,3,4,80,1,13,3,3,4,1,1,2
+1460737,41,No,334,Cardiology,2,4,Life Sciences,1,4,Male,88,3,4,Administrative,2,Single,16015,15896,1,19,3,2,80,0,22,2,3,22,10,0,4
+1464566,18,Yes,812,Cardiology,10,3,Medical,1,4,Female,69,2,1,Other,3,Single,1200,9724,1,12,3,1,80,0,0,2,3,0,0,0,0
+1608953,28,No,1476,Maternity,16,2,Medical,1,2,Male,68,4,2,Nurse,1,Single,5661,4824,0,19,3,3,80,0,9,2,3,8,3,0,7
+1162080,31,No,218,Cardiology,7,3,Technical Degree,1,2,Male,100,4,2,Nurse,4,Married,6929,12241,4,11,3,2,80,1,10,3,2,8,7,7,7
+1317347,39,No,1132,Maternity,1,3,Medical,1,3,Male,48,4,3,Nurse,4,Divorced,9613,10942,0,17,3,1,80,3,19,5,2,18,10,3,7
+1712914,36,No,1105,Maternity,24,4,Life Sciences,1,2,Female,47,3,2,Nurse,2,Married,5674,6927,7,15,3,3,80,1,11,3,3,9,8,0,8
+1672940,32,No,906,Cardiology,7,3,Life Sciences,1,4,Male,91,2,2,Nurse,3,Married,5484,16985,1,14,3,3,80,1,13,3,2,13,8,4,8
+1535275,38,No,849,Maternity,25,2,Life Sciences,1,1,Female,81,2,3,Administrative,2,Married,12061,26707,3,17,3,3,80,1,19,2,3,10,8,0,1
+1505031,58,No,390,Maternity,1,4,Life Sciences,1,4,Male,32,1,2,Nurse,3,Divorced,5660,17056,2,13,3,4,80,1,12,2,3,5,3,1,2
+1546688,31,No,691,Maternity,5,4,Technical Degree,1,3,Male,86,3,1,Other,4,Married,4821,10077,0,12,3,3,80,1,6,4,3,5,2,0,3
+1578970,31,No,106,Neurology,2,3,Human Resources,1,1,Male,62,2,2,Other,1,Married,6410,17822,3,12,3,4,80,0,9,1,3,2,2,1,0
+1304896,45,No,1249,Maternity,7,3,Life Sciences,1,1,Male,97,3,3,Nurse,1,Divorced,5210,20308,1,18,3,1,80,1,24,2,3,24,9,9,11
+1685562,31,No,192,Maternity,2,4,Life Sciences,1,3,Male,32,3,1,Other,4,Divorced,2695,7747,0,18,3,2,80,1,3,2,1,2,2,2,2
+1172739,33,No,553,Neurology,5,4,Life Sciences,1,4,Female,74,3,3,Other,2,Married,11878,23364,6,11,3,2,80,2,12,2,3,10,6,8,8
+1536502,39,No,117,Neurology,10,1,Medical,1,3,Male,99,3,4,Other,1,Married,17068,5355,1,14,3,4,80,0,21,3,3,21,9,11,10
+1837585,43,No,185,Maternity,10,4,Life Sciences,1,3,Female,33,3,1,Nurse,4,Single,2455,10675,0,19,3,1,80,0,9,5,3,8,7,1,7
+1230043,49,No,1091,Maternity,1,2,Technical Degree,1,3,Female,90,2,4,Nurse,3,Single,13964,17810,7,12,3,4,80,0,25,2,3,7,1,0,7
+1202360,52,No,723,Maternity,8,4,Medical,1,3,Male,85,2,2,Other,2,Married,4941,17747,2,15,3,1,80,0,11,3,2,8,2,7,7
+1680149,27,No,1220,Maternity,5,3,Life Sciences,1,3,Female,85,3,1,Other,2,Single,2478,20938,1,12,3,2,80,0,4,2,2,4,3,1,2
+1696143,32,No,588,Cardiology,8,2,Technical Degree,1,3,Female,65,2,2,Nurse,2,Married,5228,24624,1,11,3,4,80,0,13,2,3,13,12,11,9
+1773686,27,No,1377,Cardiology,2,3,Life Sciences,1,4,Male,74,3,2,Nurse,3,Single,4478,5242,1,11,3,1,80,0,5,3,3,5,4,0,4
+1625490,31,No,691,Cardiology,7,3,Marketing,1,4,Male,73,3,2,Nurse,4,Divorced,7547,7143,4,12,3,4,80,3,13,3,3,7,7,1,7
+1038656,32,No,1018,Maternity,2,4,Medical,1,1,Female,74,4,2,Other,4,Single,5055,10557,7,16,3,3,80,0,10,0,2,7,7,0,7
+1323864,28,Yes,1157,Maternity,2,4,Medical,1,1,Male,84,1,1,Other,4,Married,3464,24737,5,13,3,4,80,0,5,4,2,3,2,2,2
+1222187,30,No,1275,Maternity,28,2,Medical,1,4,Female,64,3,2,Other,4,Married,5775,11934,1,13,3,4,80,2,11,2,3,10,8,1,9
+1452875,31,No,798,Neurology,7,2,Life Sciences,1,3,Female,48,2,3,Therapist,3,Married,8943,14034,1,24,4,1,80,1,10,2,3,10,9,8,9
+1375684,39,No,672,Neurology,7,2,Medical,1,3,Male,54,2,5,Other,4,Married,19272,21141,1,15,3,1,80,1,21,2,3,21,9,13,3
+1864653,39,Yes,1162,Cardiology,3,2,Medical,1,4,Female,41,3,2,Nurse,3,Married,5238,17778,4,18,3,1,80,0,12,3,2,1,0,0,0
+1810061,33,No,508,Cardiology,10,3,Marketing,1,2,Male,46,2,2,Nurse,4,Single,4682,4317,3,14,3,3,80,0,9,6,2,7,7,0,1
+1857574,47,No,1482,Maternity,5,5,Life Sciences,1,4,Male,42,3,5,Administrative,3,Married,18300,16375,4,11,3,2,80,1,21,2,3,3,2,1,1
+1342581,43,No,559,Maternity,10,4,Life Sciences,1,3,Female,82,2,2,Nurse,3,Divorced,5257,6227,1,11,3,2,80,1,9,3,4,9,7,0,0
+1863408,27,No,210,Cardiology,1,1,Marketing,1,3,Male,73,3,2,Nurse,2,Married,6349,22107,0,13,3,4,80,1,6,0,3,5,4,1,4
+1028630,54,No,928,Maternity,20,4,Life Sciences,1,4,Female,31,3,2,Other,3,Single,4869,16885,3,12,3,4,80,0,20,4,2,4,3,0,3
+1416430,43,No,1001,Maternity,7,3,Life Sciences,1,3,Female,43,3,3,Nurse,1,Married,9985,9262,8,16,3,1,80,1,10,1,2,1,0,0,0
+1139398,45,No,549,Maternity,8,4,Other,1,4,Male,75,3,2,Other,4,Married,3697,9278,9,14,3,1,80,2,12,3,3,10,9,9,8
+1267133,40,No,1124,Cardiology,1,2,Medical,1,2,Male,57,1,2,Nurse,4,Married,7457,13273,2,22,4,3,80,3,6,2,2,4,3,0,2
+1701544,29,Yes,318,Maternity,8,4,Other,1,2,Male,77,1,1,Nurse,1,Married,2119,4759,1,11,3,4,80,0,7,4,2,7,7,0,7
+1574346,29,No,738,Maternity,9,5,Other,1,2,Male,30,2,1,Nurse,4,Single,3983,7621,0,17,3,3,80,0,4,2,3,3,2,2,2
+1446564,30,No,570,Cardiology,5,3,Marketing,1,4,Female,30,2,2,Nurse,3,Divorced,6118,5431,1,13,3,3,80,3,10,2,3,10,9,1,2
+1646930,27,No,1130,Cardiology,8,4,Marketing,1,2,Female,56,3,2,Nurse,2,Married,6214,3415,1,18,3,1,80,1,8,3,3,8,7,0,7
+1514947,37,No,1192,Neurology,5,2,Medical,1,4,Male,61,3,2,Therapist,4,Divorced,6347,23177,7,16,3,3,80,2,8,2,2,6,2,0,4
+1650545,38,No,343,Maternity,15,2,Life Sciences,1,3,Male,92,2,3,Administrative,4,Divorced,11510,15682,0,14,3,2,80,1,12,3,3,11,10,2,9
+1549614,31,No,1232,Neurology,7,4,Medical,1,3,Female,39,3,3,Therapist,4,Single,7143,25713,1,14,3,3,80,0,11,2,2,11,9,4,10
+1259109,29,No,144,Cardiology,10,1,Marketing,1,4,Female,39,2,2,Nurse,2,Divorced,8268,11866,1,14,3,1,80,2,7,2,3,7,7,1,7
+1138615,35,No,1296,Neurology,5,4,Technical Degree,1,3,Male,62,3,3,Therapist,2,Single,8095,18264,0,13,3,4,80,0,17,5,3,16,6,0,13
+1366078,23,No,1309,Maternity,26,1,Life Sciences,1,3,Male,83,3,1,Other,4,Divorced,2904,16092,1,12,3,3,80,2,4,2,2,4,2,0,2
+1477474,41,No,483,Neurology,6,3,Medical,1,4,Male,95,2,2,Therapist,2,Single,6032,10110,6,15,3,4,80,0,8,3,3,5,4,1,2
+1406287,47,No,1309,Cardiology,4,1,Medical,1,2,Male,99,3,2,Other,3,Single,2976,25751,3,19,3,1,80,0,5,3,3,0,0,0,0
+1544429,42,No,810,Maternity,23,5,Life Sciences,1,1,Female,44,3,4,Administrative,4,Single,15992,15901,2,14,3,2,80,0,16,2,3,1,0,0,0
+1171206,29,No,746,Cardiology,2,3,Life Sciences,1,4,Male,61,3,2,Nurse,3,Married,4649,16928,1,14,3,1,80,1,4,3,2,4,3,0,2
+1634652,42,No,544,Neurology,2,1,Technical Degree,1,3,Male,52,3,1,Other,3,Divorced,2696,24017,0,11,3,3,80,1,4,5,3,3,2,1,0
+1280175,32,No,1062,Maternity,2,3,Medical,1,3,Female,75,3,1,Nurse,2,Married,2370,3956,1,13,3,3,80,1,8,4,3,8,0,0,7
+1464473,48,No,530,Cardiology,29,1,Medical,1,1,Female,91,3,3,Administrative,3,Married,12504,23978,3,21,4,2,80,1,15,3,1,0,0,0,0
+1400436,37,No,1319,Maternity,6,3,Medical,1,3,Male,51,4,2,Other,1,Divorced,5974,17001,4,13,3,1,80,2,13,2,3,7,7,6,7
+1465814,30,Yes,641,Cardiology,25,2,Technical Degree,1,4,Female,85,3,2,Nurse,3,Married,4736,6069,7,12,3,2,80,1,4,2,4,2,2,2,2
+1622008,26,No,933,Cardiology,1,3,Life Sciences,1,3,Male,57,3,2,Nurse,3,Married,5296,20156,1,17,3,2,80,1,8,3,3,8,7,7,7
+1679401,42,No,1332,Maternity,2,4,Other,1,1,Male,98,2,2,Nurse,4,Single,6781,17078,3,23,4,2,80,0,14,6,3,1,0,0,0
+1612768,21,Yes,756,Cardiology,1,1,Technical Degree,1,1,Female,99,2,1,Other,2,Single,2174,9150,1,11,3,3,80,0,3,3,3,3,2,1,2
+1680323,36,No,845,Cardiology,1,5,Medical,1,4,Female,45,3,2,Nurse,4,Single,6653,15276,4,15,3,2,80,0,7,6,3,1,0,0,0
+1340908,36,No,541,Cardiology,3,4,Medical,1,1,Male,48,2,3,Nurse,4,Married,9699,7246,4,11,3,1,80,1,16,2,3,13,9,1,12
+1407209,57,No,593,Maternity,1,4,Medical,1,4,Male,88,3,2,Nurse,3,Married,6755,2967,2,11,3,3,80,0,15,2,3,3,2,1,2
+1196631,40,No,1171,Maternity,10,4,Life Sciences,1,4,Female,46,4,1,Nurse,3,Married,2213,22495,3,13,3,3,80,1,10,3,3,7,7,1,7
+1558158,21,No,895,Cardiology,9,2,Medical,1,1,Male,39,3,1,Other,4,Single,2610,2851,1,24,4,3,80,0,3,3,2,3,2,2,2
+1542984,33,Yes,350,Cardiology,5,3,Marketing,1,4,Female,34,3,1,Other,3,Single,2851,9150,1,13,3,2,80,0,1,2,3,1,0,0,0
+1665531,37,No,921,Maternity,10,3,Medical,1,3,Female,98,3,1,Nurse,1,Married,3452,17663,6,20,4,2,80,1,17,3,3,5,4,0,3
+1815564,46,No,1144,Neurology,7,4,Medical,1,3,Female,30,3,2,Therapist,3,Married,5258,16044,2,14,3,3,80,0,7,2,4,1,0,0,0
+1866571,41,No,143,Cardiology,4,3,Marketing,1,1,Male,56,3,2,Nurse,2,Single,9355,9558,1,18,3,3,80,0,8,5,3,8,7,7,7
+1589819,50,No,1046,Maternity,10,3,Technical Degree,1,4,Male,100,2,3,Nurse,4,Single,10496,2755,6,15,3,4,80,0,20,2,3,4,3,1,3
+1645744,40,No,575,Cardiology,22,2,Marketing,1,3,Male,68,2,2,Nurse,3,Married,6380,6110,2,12,3,1,80,2,8,6,3,6,4,1,0
+1235953,31,Yes,408,Maternity,9,4,Life Sciences,1,3,Male,42,2,1,Other,2,Single,2657,7551,0,16,3,4,80,0,3,5,3,2,2,2,2
+1034442,21,Yes,156,Cardiology,12,3,Life Sciences,1,3,Female,90,4,1,Other,2,Single,2716,25422,1,15,3,4,80,0,1,0,3,1,0,0,0
+1616596,29,No,1283,Maternity,23,3,Life Sciences,1,4,Male,54,3,1,Other,4,Single,2201,18168,9,16,3,4,80,0,6,4,3,3,2,1,2
+1078791,35,No,755,Maternity,9,4,Life Sciences,1,3,Male,97,2,2,Nurse,2,Single,6540,19394,9,19,3,3,80,0,10,5,3,1,1,0,0
+1513965,27,No,1469,Maternity,1,2,Medical,1,4,Male,82,3,1,Nurse,2,Divorced,3816,17881,1,11,3,2,80,1,5,2,3,5,2,0,4
+1786169,28,No,304,Cardiology,9,4,Life Sciences,1,2,Male,92,3,2,Nurse,4,Single,5253,20750,1,16,3,4,80,0,7,1,3,7,5,0,7
+1377506,49,No,1261,Maternity,7,3,Other,1,2,Male,31,2,3,Nurse,3,Single,10965,12066,8,24,4,3,80,0,26,2,3,5,2,0,0
+1653415,51,No,1178,Cardiology,14,2,Life Sciences,1,3,Female,87,3,2,Nurse,4,Married,4936,14862,4,11,3,3,80,1,18,2,2,7,7,0,7
+1125672,36,No,329,Maternity,2,3,Life Sciences,1,4,Female,96,3,1,Other,3,Married,2543,11868,4,13,3,2,80,1,6,3,3,2,2,2,2
+1629676,34,Yes,1362,Cardiology,19,3,Marketing,1,1,Male,67,4,2,Nurse,4,Single,5304,4652,8,13,3,2,80,0,9,3,2,5,2,0,4
+1121223,55,No,1311,Neurology,2,3,Life Sciences,1,3,Female,97,3,4,Other,4,Single,16659,23258,2,13,3,3,80,0,30,2,3,5,4,1,2
+1339400,24,No,1371,Cardiology,10,4,Marketing,1,4,Female,77,3,2,Nurse,3,Divorced,4260,5915,1,12,3,4,80,1,5,2,4,5,2,0,3
+1382648,30,No,202,Cardiology,2,1,Technical Degree,1,3,Male,72,3,1,Other,2,Married,2476,17434,1,18,3,1,80,1,1,3,3,1,0,0,0
+1685681,26,No,575,Maternity,3,1,Technical Degree,1,3,Male,73,3,1,Other,1,Single,3102,6582,0,22,4,3,80,0,7,2,3,6,4,0,4
+1700683,22,No,253,Maternity,11,3,Medical,1,1,Female,43,3,1,Other,2,Married,2244,24440,1,13,3,4,80,1,2,1,3,2,1,1,2
+1634874,36,No,164,Cardiology,2,2,Medical,1,2,Male,61,2,3,Nurse,3,Married,7596,3809,1,13,3,2,80,2,10,2,3,10,9,9,0
+1362644,30,Yes,464,Maternity,4,3,Technical Degree,1,3,Male,40,3,1,Other,4,Single,2285,3427,9,23,4,3,80,0,3,4,3,1,0,0,0
+1286933,37,No,1107,Maternity,14,3,Life Sciences,1,4,Female,95,3,1,Nurse,1,Divorced,3034,26914,1,12,3,3,80,1,18,2,2,18,7,12,17
+1848633,40,No,759,Cardiology,2,2,Marketing,1,4,Female,46,3,2,Nurse,2,Divorced,5715,22553,7,12,3,3,80,2,8,5,3,5,4,1,3
+1065198,42,No,201,Maternity,1,4,Life Sciences,1,2,Female,95,3,1,Nurse,1,Divorced,2576,20490,3,16,3,2,80,1,8,5,3,5,2,1,2
+1703984,37,No,1305,Maternity,10,4,Life Sciences,1,3,Male,49,3,2,Therapist,2,Single,4197,21123,2,12,3,4,80,0,18,2,2,1,0,0,1
+1538992,43,No,982,Maternity,12,3,Life Sciences,1,1,Male,59,2,4,Administrative,2,Divorced,14336,4345,1,11,3,3,80,1,25,3,3,25,10,3,9
+1488170,40,No,555,Maternity,2,3,Medical,1,2,Female,78,2,2,Nurse,3,Married,3448,13436,6,22,4,2,80,1,20,3,3,1,0,0,0
+1530826,54,No,821,Maternity,5,2,Medical,1,1,Male,86,3,5,Administrative,1,Married,19406,8509,4,11,3,3,80,1,24,4,2,4,2,1,2
+1550660,34,No,1381,Cardiology,4,4,Marketing,1,3,Female,72,3,2,Nurse,3,Married,6538,12740,9,15,3,1,80,1,6,3,3,3,2,1,2
+1766543,31,No,480,Neurology,7,2,Medical,1,2,Female,31,3,2,Therapist,1,Married,4306,4156,1,12,3,2,80,1,13,5,1,13,10,3,12
+1241240,43,No,313,Maternity,21,3,Medical,1,4,Male,61,3,1,Nurse,4,Married,2258,15238,7,20,4,1,80,1,8,1,3,3,2,1,2
+1616188,43,No,1473,Maternity,8,4,Other,1,3,Female,74,3,2,Nurse,3,Divorced,4522,2227,4,14,3,4,80,0,8,3,3,5,2,0,2
+1068776,25,No,891,Cardiology,4,2,Life Sciences,1,2,Female,99,2,2,Nurse,4,Single,4487,12090,1,11,3,2,80,0,5,3,3,5,4,1,3
+1514615,37,No,1063,Maternity,25,5,Medical,1,2,Female,72,3,2,Other,3,Married,4449,23866,3,15,3,1,80,2,15,2,3,13,11,10,7
+1413436,31,No,329,Maternity,1,2,Life Sciences,1,4,Male,98,2,1,Nurse,1,Married,2218,16193,1,12,3,3,80,1,4,3,3,4,2,3,2
+1660433,39,No,1218,Neurology,1,1,Life Sciences,1,2,Male,52,3,5,Other,3,Divorced,19197,8213,1,14,3,3,80,1,21,3,3,21,8,1,6
+1415736,56,No,906,Cardiology,6,3,Life Sciences,1,3,Female,86,4,4,Nurse,1,Married,13212,18256,9,11,3,4,80,3,36,0,2,7,7,7,7
+1356712,30,No,1082,Cardiology,12,3,Technical Degree,1,2,Female,83,3,2,Nurse,3,Single,6577,19558,0,11,3,2,80,0,6,6,3,5,4,4,4
+1482423,41,No,645,Cardiology,1,3,Marketing,1,2,Male,49,4,3,Nurse,1,Married,8392,19566,1,16,3,3,80,1,10,2,3,10,7,0,7
+1735186,28,No,1300,Maternity,17,2,Medical,1,3,Male,79,3,2,Nurse,1,Divorced,4558,13535,1,12,3,4,80,1,10,2,3,10,0,1,8
+1303791,25,Yes,688,Maternity,3,3,Medical,1,1,Male,91,3,1,Nurse,1,Married,4031,9396,5,13,3,3,80,1,6,5,3,2,2,0,2
+1595705,52,No,319,Neurology,3,3,Medical,1,4,Male,39,2,3,Therapist,3,Married,7969,19609,2,14,3,3,80,0,28,4,3,5,4,0,4
+1314827,45,No,192,Maternity,10,2,Life Sciences,1,1,Male,69,3,1,Other,4,Married,2654,9655,3,21,4,4,80,2,8,3,2,2,2,0,2
+1499671,52,No,1490,Neurology,4,2,Life Sciences,1,4,Female,30,3,4,Other,4,Married,16555,10310,2,13,3,4,80,0,31,2,1,5,2,1,4
+1085614,42,No,532,Maternity,29,2,Life Sciences,1,1,Female,92,3,2,Other,3,Divorced,4556,12932,2,11,3,2,80,1,19,3,3,5,4,0,2
+1635763,30,No,317,Neurology,2,3,Life Sciences,1,3,Female,43,1,2,Therapist,4,Single,6091,24793,2,20,4,3,80,0,11,2,3,5,4,0,2
+1031735,60,No,422,Neurology,7,3,Life Sciences,1,1,Female,41,3,5,Other,1,Married,19566,3854,5,11,3,4,80,0,33,5,1,29,8,11,10
+1787984,46,No,1485,Maternity,18,3,Medical,1,3,Female,87,3,2,Therapist,3,Divorced,4810,26314,2,14,3,3,80,1,19,5,2,10,7,0,8
+1867121,42,No,1368,Maternity,28,4,Technical Degree,1,4,Female,88,2,2,Nurse,4,Married,4523,4386,0,11,3,4,80,3,7,4,4,6,5,0,4
+1377208,24,Yes,1448,Cardiology,1,1,Technical Degree,1,1,Female,62,3,1,Other,2,Single,3202,21972,1,16,3,2,80,0,6,4,3,5,3,1,4
+1548908,34,No,296,Cardiology,6,2,Marketing,1,4,Female,33,1,1,Other,3,Divorced,2351,12253,0,16,3,4,80,1,3,3,2,2,2,1,0
+1501749,38,No,1490,Maternity,2,2,Life Sciences,1,4,Male,42,3,1,Nurse,4,Married,1702,12106,1,23,4,3,80,1,1,3,3,1,0,0,0
+1317087,40,No,1398,Cardiology,2,4,Life Sciences,1,3,Female,79,3,5,Administrative,3,Married,18041,13022,0,14,3,4,80,0,21,2,3,20,15,1,12
+1865341,26,No,1349,Maternity,23,3,Life Sciences,1,1,Female,90,3,1,Other,4,Divorced,2886,3032,1,22,4,2,80,2,3,3,1,3,2,0,2
+1051420,30,No,1400,Maternity,3,3,Life Sciences,1,3,Male,53,3,1,Nurse,4,Married,2097,16734,4,15,3,3,80,1,9,3,1,5,3,1,4
+1589813,29,No,986,Maternity,3,4,Medical,1,2,Male,93,2,3,Administrative,3,Married,11935,21526,1,18,3,3,80,0,10,2,3,10,2,0,7
+1297138,29,Yes,408,Maternity,25,5,Technical Degree,1,3,Female,71,2,1,Other,2,Married,2546,18300,5,16,3,2,80,0,6,2,4,2,2,1,1
+1191505,19,Yes,489,Neurology,2,2,Technical Degree,1,1,Male,52,2,1,Other,4,Single,2564,18437,1,12,3,3,80,0,1,3,4,1,0,0,0
+1708021,30,No,1398,Cardiology,22,4,Other,1,3,Female,69,3,3,Nurse,1,Married,8412,2890,0,11,3,3,80,0,10,3,3,9,8,7,8
+1353649,57,No,210,Cardiology,29,3,Marketing,1,1,Male,56,2,4,Administrative,4,Divorced,14118,22102,3,12,3,3,80,1,32,3,2,1,0,0,0
+1669573,50,No,1099,Neurology,29,4,Life Sciences,1,2,Male,88,2,4,Other,3,Married,17046,9314,0,15,3,2,80,1,28,2,3,27,10,15,7
+1613984,30,No,1116,Maternity,2,3,Medical,1,3,Female,49,3,1,Nurse,4,Single,2564,7181,0,14,3,3,80,0,12,2,2,11,7,6,7
+1269877,60,No,1499,Cardiology,28,3,Marketing,1,3,Female,80,2,3,Nurse,1,Married,10266,2845,4,19,3,4,80,0,22,5,4,18,13,13,11
+1593662,47,No,983,Neurology,2,2,Medical,1,1,Female,65,3,2,Therapist,4,Divorced,5070,7389,5,13,3,3,80,3,20,2,3,5,0,0,4
+1580340,46,No,1009,Maternity,2,3,Life Sciences,1,1,Male,51,3,4,Administrative,3,Married,17861,2288,6,13,3,3,80,0,26,2,1,3,2,0,1
+1354096,35,No,144,Maternity,22,3,Life Sciences,1,4,Male,46,1,1,Nurse,3,Single,4230,19225,0,15,3,3,80,0,6,2,3,5,4,4,3
+1667303,54,No,548,Maternity,8,4,Life Sciences,1,3,Female,42,3,2,Nurse,3,Single,3780,23428,7,11,3,3,80,0,19,3,3,1,0,0,0
+1095688,34,No,1303,Maternity,2,4,Life Sciences,1,4,Male,62,2,1,Other,3,Divorced,2768,8416,3,12,3,3,80,1,14,3,3,7,3,5,7
+1725110,31,No,1274,Maternity,9,1,Life Sciences,1,3,Male,33,3,3,Therapist,2,Divorced,10648,14394,1,25,4,4,80,1,13,6,4,13,8,0,8
+1563027,33,Yes,1277,Neurology,15,1,Medical,1,2,Male,56,3,3,Other,3,Married,13610,24619,7,12,3,4,80,0,15,2,4,7,6,7,7
+1173414,33,No,587,Maternity,10,1,Medical,1,1,Male,38,1,1,Nurse,4,Divorced,3408,6705,7,13,3,1,80,3,8,2,3,4,3,1,3
+1188476,30,No,413,Cardiology,7,1,Marketing,1,4,Male,57,3,1,Other,2,Single,2983,18398,0,14,3,1,80,0,4,3,3,3,2,1,2
+1204541,35,No,1276,Maternity,16,3,Life Sciences,1,4,Male,72,3,3,Nurse,3,Married,7632,14295,4,12,3,3,80,0,10,2,3,8,7,0,0
+1736866,31,Yes,534,Maternity,20,3,Life Sciences,1,1,Male,66,3,3,Nurse,3,Married,9824,22908,3,12,3,1,80,0,12,2,3,1,0,0,0
+1776529,34,Yes,988,Neurology,23,3,Human Resources,1,2,Female,43,3,3,Other,1,Divorced,9950,11533,9,15,3,3,80,3,11,2,3,3,2,0,2
+1489398,42,No,1474,Maternity,5,2,Other,1,2,Male,97,3,1,Nurse,3,Married,2093,9260,4,17,3,4,80,1,8,4,3,2,2,2,0
+1673608,36,No,635,Cardiology,10,4,Medical,1,2,Male,32,3,3,Nurse,4,Single,9980,15318,1,14,3,4,80,0,10,3,2,10,3,9,7
+1107497,22,No,1368,Maternity,4,1,Technical Degree,1,3,Male,99,2,1,Nurse,3,Single,3894,9129,5,16,3,3,80,0,4,3,3,2,2,1,2
+1096432,48,No,163,Cardiology,2,5,Marketing,1,2,Female,37,3,2,Nurse,4,Married,4051,19658,2,14,3,1,80,1,14,2,3,9,7,6,7
+1045162,55,No,1117,Cardiology,18,5,Life Sciences,1,1,Female,83,3,4,Administrative,2,Single,16835,9873,3,23,4,4,80,0,37,2,3,10,9,7,7
+1756239,41,No,267,Cardiology,10,2,Life Sciences,1,4,Male,56,3,2,Nurse,4,Single,6230,13430,7,14,3,4,80,0,16,3,3,14,3,1,10
+1372229,35,No,619,Cardiology,1,3,Marketing,1,2,Male,85,3,2,Nurse,3,Married,4717,18659,9,11,3,3,80,0,15,2,3,11,9,6,9
+1413753,40,No,302,Neurology,6,3,Life Sciences,1,2,Female,75,3,4,Therapist,3,Single,13237,20364,7,15,3,3,80,0,22,3,3,20,6,5,13
+1394294,39,No,443,Maternity,8,1,Life Sciences,1,3,Female,48,3,1,Nurse,3,Married,3755,17872,1,11,3,1,80,1,8,3,3,8,3,0,7
+1233772,31,No,828,Cardiology,2,1,Life Sciences,1,2,Male,77,3,2,Nurse,4,Single,6582,8346,4,13,3,3,80,0,10,2,4,6,5,0,5
+1882668,42,No,319,Maternity,24,3,Medical,1,4,Male,56,3,3,Therapist,1,Married,7406,6950,1,21,4,4,80,1,10,5,2,10,9,5,8
+1218847,45,No,561,Cardiology,2,3,Other,1,4,Male,61,3,2,Nurse,2,Married,4805,16177,0,19,3,2,80,1,9,3,4,8,7,3,7
+1636995,26,Yes,426,Neurology,17,4,Life Sciences,1,2,Female,58,3,1,Other,3,Divorced,2741,22808,0,11,3,2,80,1,8,2,2,7,7,1,0
+1780761,29,No,232,Maternity,19,3,Technical Degree,1,4,Male,34,3,2,Therapist,4,Divorced,4262,22645,4,12,3,2,80,2,8,2,4,3,2,1,2
+1375351,33,No,922,Maternity,1,5,Medical,1,1,Female,95,4,4,Administrative,3,Divorced,16184,22578,4,19,3,3,80,1,10,2,3,6,1,0,5
+1670281,31,No,688,Cardiology,7,3,Life Sciences,1,3,Male,44,2,3,Administrative,4,Divorced,11557,25291,9,21,4,3,80,1,10,3,2,5,4,0,1
+1138891,18,Yes,1306,Cardiology,5,3,Marketing,1,2,Male,69,3,1,Other,2,Single,1878,8059,1,14,3,4,80,0,0,3,3,0,0,0,0
+1755403,40,No,1094,Cardiology,28,3,Other,1,3,Male,58,1,3,Nurse,1,Divorced,10932,11373,3,15,3,3,80,1,20,2,3,1,0,0,1
+1566630,41,No,509,Maternity,2,4,Other,1,1,Female,62,2,2,Nurse,3,Single,6811,2112,2,17,3,1,80,0,10,3,3,8,7,0,7
+1777635,26,No,775,Cardiology,29,2,Medical,1,1,Male,45,3,2,Nurse,3,Divorced,4306,4267,5,12,3,1,80,2,8,5,3,0,0,0,0
+1427912,35,No,195,Cardiology,1,3,Medical,1,1,Female,80,3,2,Nurse,3,Single,4859,6698,1,16,3,4,80,0,5,3,3,5,4,0,3
+1884554,34,No,258,Cardiology,21,4,Life Sciences,1,4,Male,74,4,2,Nurse,4,Single,5337,19921,1,12,3,4,80,0,10,3,3,10,7,5,7
+1335605,26,Yes,471,Maternity,24,3,Technical Degree,1,3,Male,66,1,1,Nurse,4,Single,2340,23213,1,18,3,2,80,0,1,3,1,1,0,0,0
+1361476,37,No,799,Neurology,1,3,Technical Degree,1,2,Female,59,3,3,Therapist,4,Single,7491,23848,4,17,3,4,80,0,12,3,4,6,5,1,2
+1057253,46,No,1034,Maternity,18,1,Medical,1,1,Female,86,3,3,Nurse,3,Married,10527,8984,5,11,3,4,80,0,28,3,2,2,2,1,2
+1119549,24,Yes,1287,Maternity,7,3,Life Sciences,1,1,Female,55,3,1,Nurse,3,Married,2886,14168,1,16,3,4,80,1,6,4,3,6,3,1,2
+1209208,30,Yes,448,Cardiology,12,4,Life Sciences,1,2,Male,74,2,1,Other,1,Married,2033,14470,1,18,3,3,80,1,1,2,4,1,0,0,0
+1080875,45,Yes,306,Cardiology,26,4,Life Sciences,1,1,Female,100,3,2,Nurse,1,Married,4286,5630,2,14,3,4,80,2,5,4,3,1,1,0,0
+1547538,20,Yes,1362,Maternity,10,1,Medical,1,4,Male,32,3,1,Other,3,Single,1009,26999,1,11,3,4,80,0,1,5,3,1,0,1,1
+1712154,33,Yes,1076,Maternity,3,3,Life Sciences,1,1,Male,70,3,1,Other,1,Single,3348,3164,1,11,3,1,80,0,10,3,3,10,8,9,7
+1879624,28,Yes,654,Maternity,1,2,Life Sciences,1,1,Female,67,1,1,Other,2,Single,2216,3872,7,13,3,4,80,0,10,4,3,7,7,3,7
+1542367,42,Yes,933,Maternity,19,3,Medical,1,3,Male,57,4,1,Other,3,Divorced,2759,20366,6,12,3,4,80,0,7,2,3,2,2,2,2
+1269152,33,Yes,527,Maternity,1,4,Other,1,4,Male,63,3,1,Other,4,Single,2686,5207,1,13,3,3,80,0,10,2,2,10,9,7,8
+1052229,47,Yes,719,Cardiology,27,2,Life Sciences,1,2,Female,77,4,2,Nurse,3,Single,6397,10339,4,12,3,4,80,0,8,2,3,5,4,1,3
+1699666,55,Yes,725,Neurology,2,3,Medical,1,4,Male,78,3,5,Other,1,Married,19859,21199,5,13,3,4,80,1,24,2,3,5,2,1,4
+1152345,26,Yes,1146,Cardiology,8,3,Technical Degree,1,4,Male,38,2,2,Nurse,1,Single,5326,3064,6,17,3,3,80,0,6,2,2,4,3,1,2
+1572087,23,Yes,1243,Maternity,6,3,Life Sciences,1,3,Male,63,4,1,Nurse,1,Married,1601,3445,1,21,4,3,80,2,1,2,3,0,0,0,0
+1187355,29,Yes,805,Maternity,1,2,Life Sciences,1,2,Female,36,2,1,Nurse,1,Married,2319,6689,1,11,3,4,80,1,1,1,3,1,0,0,0
+1161558,33,Yes,118,Cardiology,16,3,Marketing,1,1,Female,69,3,2,Nurse,1,Single,5324,26507,5,15,3,3,80,0,6,3,3,3,2,0,2
+1294456,58,Yes,286,Maternity,2,4,Life Sciences,1,4,Male,31,3,5,Administrative,2,Single,19246,25761,7,12,3,4,80,0,40,2,3,31,15,13,8
+1082176,26,Yes,887,Maternity,5,2,Medical,1,3,Female,88,2,1,Other,3,Married,2366,20898,1,14,3,1,80,1,8,2,3,8,7,1,7
+1050771,35,Yes,130,Maternity,25,4,Life Sciences,1,4,Female,96,3,1,Other,2,Divorced,2022,16612,1,19,3,1,80,1,10,3,2,10,2,7,8
+1329687,29,Yes,341,Cardiology,1,3,Medical,1,2,Female,48,2,1,Other,3,Divorced,2800,23522,6,19,3,3,80,3,5,3,3,3,2,0,2
+1406364,32,Yes,374,Maternity,25,4,Life Sciences,1,1,Male,87,3,1,Nurse,4,Single,2795,18016,1,24,4,3,80,0,1,2,1,1,0,0,1
+1870106,58,Yes,781,Maternity,2,1,Life Sciences,1,4,Male,57,2,1,Nurse,4,Divorced,2380,13384,9,14,3,4,80,1,3,3,2,1,0,0,0
+1334434,20,Yes,500,Cardiology,2,3,Medical,1,3,Female,49,2,1,Other,3,Single,2044,22052,1,13,3,4,80,0,2,3,2,2,2,0,2
+1657594,21,Yes,1427,Maternity,18,1,Other,1,4,Female,65,3,1,Other,4,Single,2693,8870,1,19,3,1,80,0,1,3,2,1,0,0,0
+1179676,41,Yes,1085,Maternity,2,4,Life Sciences,1,2,Female,57,1,1,Nurse,4,Divorced,2778,17725,4,13,3,3,80,1,10,1,2,7,7,1,0
+1126499,39,Yes,1122,Maternity,6,3,Medical,1,4,Male,70,3,1,Nurse,1,Married,2404,4303,7,21,4,4,80,0,8,2,1,2,2,2,2
+1117151,25,Yes,867,Cardiology,19,2,Marketing,1,3,Male,36,2,1,Other,2,Married,2413,18798,1,18,3,3,80,3,1,2,3,1,0,0,0
+1115854,19,Yes,419,Cardiology,21,3,Other,1,4,Male,37,2,1,Other,2,Single,2121,9947,1,13,3,2,80,0,1,3,4,1,0,0,0
+1306693,20,Yes,129,Maternity,4,3,Technical Degree,1,1,Male,84,3,1,Nurse,1,Single,2973,13008,1,19,3,2,80,0,1,2,3,1,0,0,0
+1818424,37,Yes,625,Cardiology,1,4,Life Sciences,1,1,Male,46,2,3,Nurse,3,Married,10609,14922,5,11,3,3,80,0,17,2,1,14,1,11,7
+1378606,40,Yes,1479,Cardiology,24,3,Life Sciences,1,2,Female,100,4,4,Nurse,2,Single,13194,17071,4,16,3,4,80,0,22,2,2,1,0,0,0
+1649317,31,Yes,335,Maternity,9,2,Medical,1,3,Male,46,2,1,Other,1,Single,2321,10322,0,22,4,1,80,0,4,0,3,3,2,1,2
+1658398,29,Yes,906,Maternity,10,3,Life Sciences,1,4,Female,92,2,1,Other,1,Single,2404,11479,6,20,4,3,80,0,3,5,3,0,0,0,0
+1034220,30,Yes,138,Maternity,22,3,Life Sciences,1,1,Female,48,3,1,Other,3,Married,2132,11539,4,11,3,2,80,0,7,2,3,5,2,0,1
+1690577,35,Yes,622,Maternity,14,4,Other,1,3,Male,39,2,1,Nurse,2,Divorced,3743,10074,1,24,4,4,80,1,5,2,1,4,2,0,2
+1236529,20,Yes,1097,Maternity,11,3,Medical,1,4,Female,98,2,1,Other,1,Single,2600,18275,1,15,3,1,80,0,1,2,3,1,0,0,0
+1664278,37,Yes,1141,Maternity,11,2,Medical,1,1,Female,61,1,2,Nurse,2,Married,4777,14382,5,15,3,1,80,0,15,2,1,1,0,0,0
+1665250,26,Yes,265,Cardiology,29,2,Medical,1,2,Male,79,1,2,Nurse,1,Single,4969,21813,8,18,3,4,80,0,7,6,3,2,2,2,2
+1631537,26,Yes,342,Maternity,2,3,Life Sciences,1,1,Male,57,3,1,Other,1,Married,2042,15346,6,14,3,2,80,1,6,2,3,3,2,1,2
+1084699,20,Yes,769,Cardiology,9,3,Marketing,1,4,Female,54,3,1,Other,4,Single,2323,17205,1,14,3,2,80,0,2,3,3,2,2,0,2
+1343829,21,Yes,1334,Maternity,10,3,Life Sciences,1,3,Female,36,2,1,Nurse,1,Single,1416,17258,1,13,3,1,80,0,1,6,2,1,0,1,0
+1338800,35,Yes,1204,Cardiology,4,3,Technical Degree,1,4,Male,86,3,3,Nurse,1,Single,9582,10333,0,22,4,1,80,0,9,2,3,8,7,4,7
+1417598,26,Yes,1330,Maternity,21,3,Medical,1,1,Male,37,3,1,Nurse,3,Divorced,2377,19373,1,20,4,3,80,1,1,0,2,1,1,0,0
+1875940,33,Yes,1017,Maternity,25,3,Medical,1,1,Male,55,2,1,Other,2,Single,2313,2993,4,20,4,2,80,0,5,0,3,2,2,2,2
+1818532,21,Yes,984,Maternity,1,1,Technical Degree,1,4,Female,70,2,1,Other,2,Single,2070,25326,1,11,3,3,80,0,2,6,4,2,2,2,2
+1313694,18,Yes,247,Maternity,8,1,Medical,1,3,Male,80,3,1,Nurse,3,Single,1904,13556,1,12,3,4,80,0,0,0,3,0,0,0,0
+1140608,33,Yes,603,Cardiology,9,4,Marketing,1,1,Female,77,3,2,Nurse,1,Single,8224,18385,0,17,3,1,80,0,6,3,3,5,2,0,3
+1778989,29,Yes,408,Cardiology,23,1,Life Sciences,1,4,Female,45,2,3,Nurse,1,Married,7336,11162,1,13,3,1,80,1,11,3,1,11,8,3,10
+1340549,28,Yes,1485,Maternity,12,1,Life Sciences,1,3,Female,79,3,1,Nurse,4,Married,2515,22955,1,11,3,4,80,0,1,4,2,1,1,0,0
+1405213,43,Yes,1372,Cardiology,9,3,Marketing,1,1,Female,85,1,2,Nurse,3,Single,5346,9489,8,13,3,2,80,0,7,2,2,4,3,1,3
+1713700,20,Yes,805,Maternity,3,3,Life Sciences,1,1,Male,87,2,1,Nurse,3,Single,3033,12828,1,12,3,1,80,0,2,2,2,2,2,1,2
+1476340,44,Yes,1097,Maternity,10,4,Life Sciences,1,3,Male,96,3,1,Other,3,Single,2936,10826,1,11,3,3,80,0,6,4,3,6,4,0,2
+1500784,29,Yes,942,Maternity,15,1,Life Sciences,1,2,Female,69,1,1,Other,4,Married,2168,26933,0,18,3,1,80,1,6,2,2,5,4,1,3
+1455048,22,Yes,1256,Maternity,3,4,Life Sciences,1,3,Male,48,2,1,Other,4,Married,2853,4223,0,11,3,2,80,1,1,5,3,0,0,0,0
+1754610,41,Yes,906,Maternity,5,2,Life Sciences,1,1,Male,95,2,1,Other,1,Divorced,2107,20293,6,17,3,1,80,1,5,2,1,1,0,0,0
+1063216,24,Yes,984,Maternity,17,2,Life Sciences,1,4,Female,97,3,1,Nurse,2,Married,2210,3372,1,13,3,1,80,1,1,3,1,1,0,0,0
+1487583,33,No,117,Maternity,9,3,Medical,1,1,Male,60,3,1,Other,4,Married,2781,6311,0,13,3,2,80,1,15,5,3,14,10,4,10
+1516360,40,No,107,Cardiology,10,3,Technical Degree,1,2,Female,84,2,2,Nurse,2,Divorced,6852,11591,7,12,3,2,80,1,7,2,4,5,1,1,3
+1384279,25,No,1356,Cardiology,10,4,Life Sciences,1,3,Male,57,3,2,Nurse,4,Single,4950,20623,0,14,3,2,80,0,5,4,3,4,3,1,1
+1658193,30,No,1465,Maternity,1,3,Medical,1,4,Male,63,3,1,Other,2,Married,3579,9369,0,21,4,1,80,1,12,2,3,11,9,5,7
+1645050,42,No,458,Maternity,26,5,Medical,1,1,Female,60,3,3,Administrative,1,Married,13191,23281,3,17,3,3,80,0,20,6,3,1,0,0,0
+1695470,35,No,1212,Cardiology,8,2,Marketing,1,3,Female,78,2,3,Nurse,4,Married,10377,13755,4,11,3,2,80,1,16,6,2,13,2,4,12
+1362336,27,No,1103,Maternity,14,3,Life Sciences,1,1,Male,42,3,1,Other,1,Married,2235,14377,1,14,3,4,80,2,9,3,2,9,7,6,8
+1442702,54,No,966,Neurology,1,4,Life Sciences,1,4,Female,53,3,3,Therapist,3,Divorced,10502,9659,7,17,3,1,80,1,33,2,1,5,4,1,4
+1226564,44,No,1117,Maternity,2,1,Life Sciences,1,1,Female,72,4,1,Other,4,Married,2011,19982,1,13,3,4,80,1,10,5,3,10,5,7,7
+1245033,19,Yes,504,Maternity,10,3,Medical,1,1,Female,96,2,1,Other,2,Single,1859,6148,1,25,4,2,80,0,1,2,4,1,1,0,0
+1856613,29,No,1010,Maternity,1,3,Life Sciences,1,1,Female,97,3,1,Other,4,Divorced,3760,5598,1,15,3,1,80,3,3,5,3,3,2,1,2
+1559788,54,No,685,Maternity,3,3,Life Sciences,1,4,Male,85,3,4,Administrative,4,Married,17779,23474,3,14,3,1,80,0,36,2,3,10,9,0,9
+1845153,31,No,1332,Maternity,11,2,Medical,1,3,Male,80,3,2,Nurse,1,Married,6833,17089,1,12,3,4,80,0,6,2,2,6,5,0,1
+1216132,31,No,1062,Maternity,24,3,Medical,1,3,Female,96,2,2,Nurse,1,Single,6812,17198,1,19,3,2,80,0,10,2,3,10,9,1,8
+1718896,59,No,326,Cardiology,3,3,Life Sciences,1,3,Female,48,2,2,Nurse,4,Single,5171,16490,5,17,3,4,80,0,13,2,3,6,1,0,5
+1659741,43,No,920,Maternity,3,3,Life Sciences,1,3,Male,96,1,5,Administrative,4,Married,19740,18625,3,14,3,2,80,1,25,2,3,8,7,0,7
+1460231,49,No,1098,Neurology,4,2,Medical,1,1,Male,85,2,5,Other,3,Married,18711,12124,2,13,3,3,80,1,23,2,4,1,0,0,0
+1276743,36,No,469,Maternity,3,3,Technical Degree,1,3,Male,46,3,1,Other,2,Married,3692,9256,1,12,3,3,80,0,12,2,2,11,10,0,7
+1551418,48,No,969,Maternity,2,2,Technical Degree,1,4,Male,76,4,1,Nurse,2,Single,2559,16620,5,11,3,3,80,0,7,4,2,1,0,0,0
+1409781,27,No,1167,Maternity,4,2,Life Sciences,1,1,Male,76,3,1,Other,3,Divorced,2517,3208,1,11,3,2,80,3,5,2,3,5,3,0,3
+1429070,29,No,1329,Maternity,7,3,Life Sciences,1,3,Male,82,3,2,Nurse,4,Divorced,6623,4204,1,11,3,2,80,2,6,2,3,6,0,1,0
+1149718,48,No,715,Maternity,1,3,Life Sciences,1,4,Male,76,2,5,Administrative,4,Single,18265,8733,6,12,3,3,80,0,25,3,4,1,0,0,0
+1593907,29,No,694,Maternity,1,3,Life Sciences,1,4,Female,87,2,4,Administrative,4,Divorced,16124,3423,3,14,3,2,80,2,9,2,2,7,7,1,7
+1346366,34,No,1320,Maternity,20,3,Technical Degree,1,3,Female,89,4,1,Other,3,Married,2585,21643,0,17,3,4,80,0,2,5,2,1,0,0,0
+1471840,44,No,1099,Cardiology,5,3,Marketing,1,2,Male,88,3,5,Administrative,2,Married,18213,8751,7,11,3,3,80,1,26,5,3,22,9,3,10
+1081187,33,No,536,Cardiology,10,5,Marketing,1,4,Male,82,4,3,Nurse,3,Divorced,8380,21708,0,14,3,4,80,2,10,3,3,9,8,0,8
+1237363,19,No,265,Maternity,25,3,Life Sciences,1,2,Female,57,4,1,Other,4,Single,2994,21221,1,12,3,4,80,0,1,2,3,1,0,0,1
+1473069,23,No,373,Maternity,1,2,Life Sciences,1,4,Male,47,3,1,Other,3,Married,1223,16901,1,22,4,4,80,1,1,2,3,1,0,0,1
+1322371,25,Yes,599,Cardiology,24,1,Life Sciences,1,3,Male,73,1,1,Other,4,Single,1118,8040,1,14,3,4,80,0,1,4,3,1,0,1,0
+1574047,26,No,583,Maternity,4,2,Life Sciences,1,3,Male,53,3,1,Other,4,Single,2875,9973,1,20,4,2,80,0,8,2,2,8,5,2,2
+1588094,45,No,1449,Cardiology,2,3,Marketing,1,1,Female,94,1,5,Administrative,2,Single,18824,2493,2,16,3,1,80,0,26,2,3,24,10,1,11
+1364438,55,No,177,Maternity,8,1,Medical,1,4,Male,37,2,4,Nurse,2,Divorced,13577,25592,1,15,3,4,80,1,34,3,3,33,9,15,0
+1724855,21,Yes,251,Maternity,10,2,Life Sciences,1,1,Female,45,2,1,Nurse,3,Single,2625,25308,1,20,4,3,80,0,2,2,1,2,2,2,2
+1032289,46,No,168,Cardiology,4,2,Marketing,1,4,Female,33,2,5,Administrative,2,Married,18789,9946,2,14,3,3,80,1,26,2,3,11,4,0,8
+1826524,34,No,131,Cardiology,2,3,Marketing,1,3,Female,86,3,2,Nurse,1,Single,4538,6039,0,12,3,4,80,0,4,3,3,3,2,0,2
+1426682,51,No,237,Cardiology,9,3,Life Sciences,1,4,Male,83,3,5,Administrative,2,Divorced,19847,19196,4,24,4,1,80,1,31,5,2,29,10,11,10
+1826449,59,No,1429,Maternity,18,4,Medical,1,4,Male,67,3,3,Therapist,4,Single,10512,20002,6,12,3,4,80,0,25,6,2,9,7,5,4
+1319702,34,No,135,Maternity,19,3,Medical,1,3,Female,46,3,2,Nurse,2,Divorced,4444,22534,4,13,3,3,80,2,15,2,4,11,8,5,10
+1668404,28,Yes,791,Maternity,1,4,Medical,1,4,Male,44,3,1,Nurse,3,Single,2154,6842,0,11,3,3,80,0,5,2,2,4,2,0,2
+1459186,44,No,1199,Neurology,4,2,Life Sciences,1,3,Male,92,4,5,Other,1,Divorced,19190,17477,1,14,3,4,80,2,26,4,2,25,9,14,13
+1488640,34,No,648,Neurology,11,3,Life Sciences,1,3,Male,56,2,2,Other,2,Married,4490,21833,4,11,3,4,80,2,14,5,4,10,9,1,8
+1711208,35,No,735,Maternity,6,1,Life Sciences,1,3,Male,66,3,1,Other,3,Married,3506,6020,0,14,3,4,80,0,4,3,3,3,2,2,2
+1619962,42,No,603,Maternity,7,4,Medical,1,2,Female,78,4,2,Other,2,Married,2372,5628,6,16,3,4,80,0,18,2,3,1,0,0,0
+1411176,43,No,531,Cardiology,4,4,Marketing,1,4,Female,56,2,3,Nurse,4,Single,10231,20364,3,14,3,4,80,0,23,3,4,21,7,15,17
+1702814,36,No,429,Neurology,2,4,Life Sciences,1,3,Female,53,3,2,Therapist,2,Single,5410,2323,9,11,3,4,80,0,18,2,3,16,14,5,12
+1059499,44,No,621,Maternity,15,3,Medical,1,1,Female,73,3,3,Nurse,4,Married,7978,14075,1,11,3,4,80,1,10,2,3,10,7,0,5
+1612685,28,No,193,Maternity,2,3,Life Sciences,1,4,Male,52,2,1,Nurse,4,Married,3867,14222,1,12,3,2,80,1,2,2,3,2,2,2,2
+1744003,51,No,968,Maternity,6,2,Medical,1,2,Female,40,2,1,Nurse,3,Single,2838,4257,0,14,3,2,80,0,8,6,2,7,0,7,7
+1825727,30,No,879,Maternity,9,2,Medical,1,3,Female,72,3,2,Therapist,3,Single,4695,12858,7,18,3,3,80,0,10,3,3,8,4,1,7
+1100849,29,Yes,806,Maternity,7,3,Technical Degree,1,2,Female,39,3,1,Nurse,3,Divorced,3339,17285,3,13,3,1,80,2,10,2,3,7,7,7,7
+1165880,28,No,640,Maternity,1,3,Technical Degree,1,4,Male,84,3,1,Other,1,Single,2080,4732,2,11,3,2,80,0,5,2,2,3,2,1,2
+1386101,25,No,266,Maternity,1,3,Medical,1,4,Female,40,3,1,Other,2,Single,2096,18830,1,18,3,4,80,0,2,3,2,2,2,2,1
+1053739,32,No,604,Cardiology,8,3,Medical,1,3,Male,56,4,2,Nurse,4,Married,6209,11693,1,15,3,3,80,2,10,4,4,10,7,0,8
+1259785,45,No,364,Neurology,25,3,Medical,1,2,Female,83,3,5,Other,2,Single,18061,13035,3,22,4,3,80,0,22,4,3,0,0,0,0
+1772045,39,No,412,Neurology,13,4,Medical,1,3,Female,94,2,4,Other,2,Divorced,17123,17334,6,13,3,4,80,2,21,4,3,19,9,15,2
+1153402,58,No,848,Maternity,23,4,Life Sciences,1,1,Male,88,3,1,Other,3,Divorced,2372,26076,1,12,3,4,80,2,2,3,3,2,2,2,2
+1111156,32,No,1089,Maternity,7,2,Life Sciences,1,4,Male,79,3,2,Nurse,3,Married,4883,22845,1,18,3,1,80,1,10,3,3,10,4,1,1
+1191511,39,Yes,360,Maternity,23,3,Medical,1,3,Male,93,3,1,Other,1,Single,3904,22154,0,13,3,1,80,0,6,2,3,5,2,0,3
+1391589,30,No,1138,Maternity,6,3,Technical Degree,1,1,Female,48,2,2,Nurse,4,Married,4627,23631,0,12,3,1,80,1,10,6,3,9,2,6,7
+1474475,36,No,325,Maternity,10,4,Technical Degree,1,4,Female,63,3,3,Nurse,3,Married,7094,5747,3,12,3,1,80,0,10,0,3,7,7,1,7
+1211290,46,No,991,Neurology,1,2,Life Sciences,1,4,Female,44,3,1,Other,1,Single,3423,22957,6,12,3,3,80,0,10,3,4,7,6,5,7
+1193428,28,No,1476,Maternity,1,3,Life Sciences,1,3,Female,55,1,2,Nurse,4,Married,6674,16392,0,11,3,1,80,3,10,6,3,9,8,7,5
+1545703,50,No,1322,Maternity,28,3,Life Sciences,1,4,Female,43,3,4,Administrative,1,Married,16880,22422,4,11,3,2,80,0,25,2,3,3,2,1,2
+1202936,40,Yes,299,Cardiology,25,4,Marketing,1,4,Male,57,2,3,Nurse,2,Single,9094,17235,2,12,3,3,80,0,9,2,3,5,4,1,0
+1171299,52,Yes,1030,Cardiology,5,3,Life Sciences,1,2,Male,64,3,3,Nurse,2,Single,8446,21534,9,19,3,3,80,0,10,2,2,8,7,7,7
+1277861,30,No,634,Neurology,17,4,Medical,1,2,Female,95,3,3,Other,1,Married,11916,25927,1,23,4,4,80,2,9,2,3,9,1,0,8
+1622014,39,No,524,Maternity,18,2,Life Sciences,1,1,Male,32,3,2,Therapist,3,Single,4534,13352,0,11,3,1,80,0,9,6,3,8,7,1,7
+1379068,31,No,587,Cardiology,2,4,Life Sciences,1,4,Female,57,3,3,Nurse,3,Divorced,9852,8935,1,19,3,1,80,1,10,5,2,10,8,9,6
+1546275,41,No,256,Cardiology,10,2,Medical,1,3,Male,40,1,2,Nurse,2,Single,6151,22074,1,13,3,1,80,0,19,4,3,19,2,11,9
+1288105,31,Yes,1060,Cardiology,1,3,Life Sciences,1,4,Female,54,3,1,Other,2,Single,2302,8319,1,11,3,1,80,0,3,2,4,3,2,2,2
+1518688,44,No,935,Maternity,3,3,Life Sciences,1,1,Male,89,3,1,Nurse,1,Married,2362,14669,4,12,3,3,80,0,10,4,4,3,2,1,2
+1071499,42,No,495,Neurology,2,1,Life Sciences,1,3,Male,37,3,4,Other,3,Married,17861,26582,0,13,3,4,80,0,21,3,2,20,8,2,10
+1704652,55,No,282,Neurology,2,2,Medical,1,4,Female,58,1,5,Other,3,Married,19187,6992,4,14,3,4,80,1,23,5,3,19,9,9,11
+1074172,56,No,206,Neurology,8,4,Life Sciences,1,4,Male,99,3,5,Administrative,2,Single,19717,4022,6,14,3,1,80,0,36,4,3,7,3,7,7
+1415953,40,No,458,Maternity,16,2,Life Sciences,1,3,Male,74,3,1,Other,3,Divorced,3544,8532,9,16,3,2,80,1,6,0,3,4,2,0,0
+1492244,34,No,943,Maternity,9,3,Life Sciences,1,4,Male,86,3,3,Nurse,4,Divorced,8500,5494,0,11,3,4,80,1,10,0,2,9,7,1,6
+1510065,40,No,523,Maternity,2,3,Life Sciences,1,3,Male,98,3,2,Other,4,Single,4661,22455,1,13,3,3,80,0,9,4,3,9,8,8,8
+1338493,41,No,1018,Cardiology,1,3,Marketing,1,3,Female,66,3,2,Nurse,1,Divorced,4103,4297,0,17,3,4,80,1,10,2,3,9,3,1,7
+1451242,35,No,482,Maternity,4,4,Life Sciences,1,3,Male,87,3,2,Other,3,Single,4249,2690,1,11,3,2,80,0,9,3,3,9,6,1,1
+1265137,51,No,770,Neurology,5,3,Life Sciences,1,3,Male,84,3,4,Administrative,2,Divorced,14026,17588,1,11,3,2,80,1,33,2,3,33,9,0,10
+1465164,38,No,1009,Cardiology,2,2,Life Sciences,1,2,Female,31,3,2,Nurse,1,Divorced,6893,19461,3,15,3,4,80,1,11,3,3,7,7,1,7
+1420569,34,No,507,Cardiology,15,2,Medical,1,3,Female,66,3,2,Nurse,1,Single,6125,23553,1,12,3,4,80,0,10,6,4,10,8,9,6
+1796375,25,No,882,Maternity,19,1,Medical,1,4,Male,67,3,1,Nurse,4,Married,3669,9075,3,11,3,3,80,3,7,6,2,3,2,1,2
+1536328,58,Yes,601,Cardiology,7,4,Medical,1,3,Female,53,2,3,Therapist,1,Married,10008,12023,7,14,3,4,80,0,31,0,2,10,9,5,9
+1346672,40,No,329,Maternity,1,4,Life Sciences,1,2,Male,88,3,1,Nurse,2,Married,2387,6762,3,22,4,3,80,1,7,3,3,4,2,0,3
+1408258,36,No,607,Cardiology,7,3,Marketing,1,1,Female,83,4,2,Nurse,1,Married,4639,2261,2,16,3,4,80,1,17,2,2,15,7,6,13
+1172129,48,No,855,Neurology,4,3,Life Sciences,1,4,Male,54,3,3,Therapist,4,Single,7898,18706,1,11,3,3,80,0,11,2,3,10,9,0,8
+1525335,27,No,1291,Cardiology,11,3,Medical,1,3,Female,98,4,1,Other,4,Married,2534,6527,8,14,3,2,80,1,5,4,3,1,0,0,0
+1138505,51,No,1405,Maternity,11,2,Technical Degree,1,4,Female,82,2,4,Therapist,2,Single,13142,24439,3,16,3,2,80,0,29,1,2,5,2,0,3
+1792003,18,No,1124,Maternity,1,3,Life Sciences,1,4,Female,97,3,1,Nurse,4,Single,1611,19305,1,15,3,3,80,0,0,5,4,0,0,0,0
+1584366,35,No,817,Maternity,1,3,Medical,1,4,Female,60,2,2,Nurse,4,Married,5363,10846,0,12,3,2,80,1,10,0,3,9,7,0,0
+1224247,27,No,793,Cardiology,2,1,Life Sciences,1,4,Male,43,1,2,Nurse,4,Single,5071,20392,3,20,4,2,80,0,8,3,3,6,2,0,0
+1081600,55,Yes,267,Cardiology,13,4,Marketing,1,1,Male,85,4,4,Nurse,3,Single,13695,9277,6,17,3,3,80,0,24,2,2,19,7,3,8
+1665397,56,No,1369,Maternity,23,3,Life Sciences,1,4,Male,68,3,4,Therapist,2,Married,13402,18235,4,12,3,1,80,1,33,0,3,19,16,15,9
+1073438,34,No,999,Maternity,26,1,Technical Degree,1,1,Female,92,2,1,Other,3,Divorced,2029,15891,1,20,4,3,80,3,5,2,3,5,4,0,0
+1858522,40,No,1202,Maternity,2,1,Medical,1,2,Female,89,4,2,Nurse,3,Divorced,6377,13888,5,20,4,2,80,3,15,0,3,12,11,11,8
+1528867,34,No,285,Maternity,29,3,Medical,1,2,Male,86,3,2,Nurse,3,Married,5429,17491,4,13,3,1,80,2,10,1,3,8,7,7,7
+1648657,31,Yes,703,Cardiology,2,3,Life Sciences,1,3,Female,90,2,1,Other,4,Single,2785,11882,7,14,3,3,80,0,3,3,4,1,0,0,0
+1805986,35,Yes,662,Cardiology,18,4,Marketing,1,4,Female,67,3,2,Nurse,3,Married,4614,23288,0,18,3,3,80,1,5,0,2,4,2,3,2
+1272720,38,No,693,Maternity,7,3,Life Sciences,1,4,Male,57,4,1,Other,3,Divorced,2610,15748,1,11,3,4,80,3,4,2,3,4,2,0,3
+1415194,34,No,404,Maternity,2,4,Technical Degree,1,3,Female,98,3,2,Nurse,4,Single,6687,6163,1,11,3,4,80,0,14,2,4,14,11,4,11
+1176516,28,No,736,Cardiology,26,3,Life Sciences,1,3,Male,48,2,2,Nurse,1,Married,4724,24232,1,11,3,3,80,1,5,0,3,5,3,0,4
+1542102,31,Yes,330,Maternity,22,4,Medical,1,4,Male,98,3,2,Therapist,3,Married,6179,21057,1,15,3,4,80,2,10,3,2,10,2,6,7
+1872881,39,No,1498,Cardiology,21,4,Life Sciences,1,1,Male,44,2,2,Nurse,4,Married,6120,3567,3,12,3,4,80,2,8,2,4,5,4,1,4
+1588882,51,No,541,Cardiology,2,3,Marketing,1,2,Male,52,3,3,Nurse,2,Married,10596,15395,2,11,3,2,80,0,14,5,3,4,2,3,2
+1278061,41,No,1200,Maternity,22,3,Life Sciences,1,4,Female,75,3,2,Other,4,Divorced,5467,13953,3,14,3,1,80,2,12,4,2,6,2,3,3
+1220976,37,No,1439,Maternity,4,1,Life Sciences,1,3,Male,54,3,1,Other,3,Married,2996,5182,7,15,3,4,80,0,8,2,3,6,4,1,3
+1068192,33,No,1111,Cardiology,5,1,Life Sciences,1,2,Male,61,3,2,Nurse,4,Married,9998,19293,6,13,3,1,80,0,8,2,4,5,4,1,2
+1633178,32,No,499,Cardiology,2,1,Marketing,1,3,Male,36,3,2,Nurse,2,Married,4078,20497,0,13,3,1,80,3,4,3,2,3,2,1,2
+1432591,39,No,1485,Maternity,25,2,Life Sciences,1,3,Male,71,3,3,Nurse,3,Married,10920,3449,3,21,4,2,80,1,13,2,3,6,4,0,5
+1844995,25,No,1372,Cardiology,18,1,Life Sciences,1,1,Male,93,4,2,Nurse,3,Married,6232,12477,2,11,3,2,80,0,6,3,2,3,2,1,2
+1162157,52,No,322,Maternity,28,2,Medical,1,4,Female,59,4,4,Therapist,3,Married,13247,9731,2,11,3,2,80,1,24,3,2,5,3,0,2
+1084924,43,No,930,Maternity,6,3,Medical,1,1,Female,73,2,2,Other,3,Single,4081,20003,1,14,3,1,80,0,20,3,1,20,7,1,8
+1229066,27,No,205,Cardiology,10,3,Marketing,1,4,Female,98,2,2,Nurse,4,Married,5769,7100,1,11,3,4,80,0,6,3,3,6,2,4,4
+1526314,27,Yes,135,Maternity,17,4,Life Sciences,1,4,Female,51,3,1,Other,3,Single,2394,25681,1,13,3,4,80,0,8,2,3,8,2,7,7
+1339537,26,No,683,Maternity,2,1,Medical,1,1,Male,36,2,1,Other,4,Single,3904,4050,0,12,3,4,80,0,5,2,3,4,3,1,1
+1112703,42,No,1147,Neurology,10,3,Human Resources,1,3,Female,31,3,4,Administrative,1,Married,16799,16616,0,14,3,3,80,1,21,5,3,20,7,0,9
+1768835,52,No,258,Maternity,8,4,Other,1,3,Female,54,3,1,Nurse,1,Married,2950,17363,9,13,3,3,80,0,12,2,1,5,4,0,4
+1742081,37,No,1462,Maternity,11,3,Medical,1,1,Female,94,3,1,Nurse,3,Single,3629,19106,4,18,3,1,80,0,8,6,3,3,2,0,2
+1729034,35,No,200,Maternity,18,2,Life Sciences,1,3,Male,60,3,3,Therapist,4,Single,9362,19944,2,11,3,3,80,0,10,2,3,2,2,2,2
+1141939,25,No,949,Maternity,1,3,Technical Degree,1,1,Male,81,3,1,Nurse,4,Married,3229,4910,4,11,3,2,80,1,7,2,2,3,2,0,2
+1115350,26,No,652,Maternity,7,3,Other,1,3,Male,100,4,1,Nurse,1,Single,3578,23577,0,12,3,4,80,0,8,2,3,7,7,0,7
+1218088,29,No,332,Neurology,17,3,Other,1,2,Male,51,2,3,Other,1,Single,7988,9769,1,13,3,1,80,0,10,3,2,10,9,0,9
+1246982,49,No,1475,Maternity,28,2,Life Sciences,1,1,Male,97,2,2,Nurse,1,Single,4284,22710,3,20,4,1,80,0,20,2,3,4,3,1,3
+1458822,29,Yes,337,Maternity,14,1,Other,1,3,Female,84,3,3,Nurse,4,Single,7553,22930,0,12,3,1,80,0,9,1,3,8,7,7,7
+1699413,54,No,971,Maternity,1,3,Medical,1,4,Female,54,3,4,Administrative,4,Single,17328,5652,6,19,3,4,80,0,29,3,2,20,7,12,7
+1620973,58,No,1055,Maternity,1,3,Medical,1,4,Female,76,3,5,Administrative,1,Married,19701,22456,3,21,4,3,80,1,32,3,3,9,8,1,5
+1793695,55,No,1136,Maternity,1,4,Medical,1,2,Male,81,4,4,Administrative,4,Divorced,14732,12414,2,13,3,4,80,2,31,4,4,7,7,0,0
+1583611,36,No,1174,Cardiology,3,4,Marketing,1,1,Female,99,3,2,Nurse,2,Single,9278,20763,3,16,3,4,80,0,15,3,3,5,4,0,1
+1792620,31,Yes,667,Cardiology,1,4,Life Sciences,1,2,Female,50,1,1,Other,3,Single,1359,16154,1,12,3,2,80,0,1,3,3,1,0,0,0
+1225271,30,No,855,Cardiology,7,4,Marketing,1,4,Female,73,3,2,Nurse,1,Divorced,4779,12761,7,14,3,2,80,2,8,3,3,3,2,0,2
+1703058,31,No,182,Maternity,8,5,Life Sciences,1,1,Female,93,3,4,Administrative,2,Single,16422,8847,3,11,3,3,80,0,9,3,4,3,2,1,0
+1613258,34,No,560,Maternity,1,4,Other,1,4,Male,91,3,1,Other,1,Divorced,2996,20284,5,14,3,3,80,2,10,2,3,4,3,1,3
+1611839,31,Yes,202,Maternity,8,3,Life Sciences,1,1,Female,34,2,1,Other,2,Single,1261,22262,1,12,3,3,80,0,1,3,4,1,0,0,0
+1434118,27,No,1377,Maternity,11,1,Life Sciences,1,2,Male,91,3,1,Nurse,1,Married,2099,7679,0,14,3,2,80,0,6,3,4,5,0,1,4
+1577542,36,No,172,Maternity,4,4,Life Sciences,1,1,Male,37,2,2,Nurse,4,Single,5810,22604,1,16,3,3,80,0,10,2,2,10,4,1,8
+1537620,36,No,329,Cardiology,16,4,Marketing,1,3,Female,98,2,2,Nurse,1,Married,5647,13494,4,13,3,1,80,2,11,3,2,3,2,0,2
+1827650,47,No,465,Maternity,1,3,Technical Degree,1,1,Male,74,3,1,Other,4,Married,3420,10205,7,12,3,3,80,1,17,2,2,6,5,1,2
+1533398,25,Yes,383,Cardiology,9,2,Life Sciences,1,1,Male,68,2,1,Other,1,Married,4400,15182,3,12,3,1,80,0,6,2,3,3,2,2,2
+1469983,37,No,1413,Maternity,5,2,Technical Degree,1,3,Male,84,4,1,Nurse,3,Single,3500,25470,0,14,3,1,80,0,7,2,1,6,5,1,3
+1272818,56,No,1255,Maternity,1,2,Life Sciences,1,1,Female,90,3,1,Other,1,Married,2066,10494,2,22,4,4,80,1,5,3,4,3,2,1,0
+1174986,47,No,359,Maternity,2,4,Medical,1,1,Female,82,3,4,Administrative,3,Married,17169,26703,3,19,3,2,80,2,26,2,4,20,17,5,6
+1259120,24,No,1476,Cardiology,4,1,Medical,1,4,Female,42,3,2,Nurse,3,Married,4162,15211,1,12,3,3,80,2,5,3,3,5,4,0,3
+1236111,32,No,601,Cardiology,7,5,Marketing,1,4,Male,97,3,2,Nurse,4,Married,9204,23343,4,12,3,3,80,1,7,3,2,4,3,0,3
+1625621,34,No,401,Maternity,1,3,Life Sciences,1,4,Female,86,2,1,Nurse,2,Married,3294,3708,5,17,3,1,80,1,7,2,2,5,4,0,2
+1743607,41,No,1283,Maternity,5,5,Medical,1,2,Male,90,4,1,Other,3,Married,2127,5561,2,12,3,1,80,0,7,5,2,4,2,0,3
+1115072,40,No,663,Maternity,9,4,Other,1,3,Male,81,3,2,Nurse,3,Divorced,3975,23099,3,11,3,3,80,2,11,2,4,8,7,0,7
+1497203,31,No,326,Cardiology,8,2,Life Sciences,1,1,Male,31,3,3,Nurse,4,Divorced,10793,8386,1,18,3,1,80,1,13,5,3,13,7,9,9
+1821156,46,No,377,Cardiology,9,3,Marketing,1,1,Male,52,3,3,Nurse,4,Divorced,10096,15986,4,11,3,1,80,1,28,1,4,7,7,4,3
+1853035,39,Yes,592,Maternity,2,3,Life Sciences,1,1,Female,54,2,1,Nurse,1,Single,3646,17181,2,23,4,2,80,0,11,2,4,1,0,0,0
+1355585,31,Yes,523,Maternity,2,3,Life Sciences,1,2,Male,94,3,1,Nurse,4,Married,3722,21081,6,13,3,3,80,1,7,2,1,2,2,2,2
+1472943,29,Yes,115,Cardiology,13,3,Technical Degree,1,1,Female,51,3,2,Nurse,2,Single,5765,17485,5,11,3,1,80,0,7,4,1,5,3,0,0
+1817745,34,Yes,790,Cardiology,24,4,Medical,1,1,Female,40,2,2,Nurse,2,Single,4599,7815,0,23,4,3,80,0,16,2,4,15,9,10,10
+1812838,24,Yes,381,Maternity,9,3,Medical,1,2,Male,89,3,1,Nurse,1,Single,3172,16998,2,11,3,3,80,0,4,2,2,0,0,0,0
+1473545,28,Yes,289,Maternity,2,2,Medical,1,3,Male,38,2,1,Nurse,1,Single,2561,5355,7,11,3,3,80,0,8,2,2,0,0,0,0
+1512296,29,Yes,224,Maternity,1,4,Technical Degree,1,1,Male,100,2,1,Other,1,Single,2362,7568,6,13,3,3,80,0,11,2,1,9,7,0,7
+1161882,40,Yes,676,Maternity,9,4,Life Sciences,1,4,Male,86,3,1,Nurse,1,Single,2018,21831,3,14,3,2,80,0,15,3,1,5,4,1,0
+1827679,31,Yes,561,Maternity,3,3,Life Sciences,1,4,Female,33,3,1,Other,3,Single,4084,4156,1,12,3,1,80,0,7,2,1,7,2,7,7
+1286513,35,Yes,104,Maternity,2,3,Life Sciences,1,1,Female,69,3,1,Nurse,1,Divorced,2074,26619,1,12,3,4,80,1,1,2,3,1,0,0,0
+1064286,28,Yes,329,Maternity,24,3,Medical,1,3,Male,51,3,1,Nurse,2,Married,2408,7324,1,17,3,3,80,3,1,3,3,1,1,0,0
+1494533,22,Yes,457,Maternity,26,2,Other,1,2,Female,85,2,1,Other,3,Married,2814,10293,1,14,3,2,80,0,4,2,2,4,2,1,3
+1741354,18,Yes,544,Cardiology,3,2,Medical,1,2,Female,70,3,1,Other,4,Single,1569,18420,1,12,3,3,80,0,0,2,4,0,0,0,0
+1107055,35,Yes,763,Cardiology,15,2,Medical,1,1,Male,59,1,2,Nurse,4,Divorced,5440,22098,6,14,3,4,80,2,7,2,2,2,2,2,2
+1644021,24,Yes,567,Maternity,2,1,Technical Degree,1,1,Female,32,3,1,Other,4,Single,3760,17218,1,13,3,3,80,0,6,2,3,6,3,1,3
+1883424,40,Yes,1329,Maternity,7,3,Life Sciences,1,1,Male,73,3,1,Nurse,1,Single,2166,3339,3,14,3,2,80,0,10,3,1,4,2,0,3
+1082389,23,Yes,1320,Maternity,8,1,Medical,1,4,Male,93,2,1,Nurse,3,Single,3989,20586,1,11,3,1,80,0,5,2,3,5,4,1,2
+1297488,24,Yes,240,Neurology,22,1,Human Resources,1,4,Male,58,1,1,Other,3,Married,1555,11585,1,11,3,3,80,1,1,2,3,1,0,0,0
+1675357,47,Yes,1093,Cardiology,9,3,Life Sciences,1,3,Male,82,1,4,Nurse,3,Married,12936,24164,7,11,3,3,80,0,25,3,1,23,5,14,10
+1878824,32,Yes,964,Cardiology,1,2,Life Sciences,1,1,Male,34,1,2,Nurse,2,Single,6735,12147,6,15,3,2,80,0,10,2,3,0,0,0,0
+1828538,30,Yes,600,Neurology,8,3,Human Resources,1,3,Female,66,2,1,Other,4,Divorced,2180,9732,6,11,3,3,80,1,6,0,2,4,2,1,2
+1838448,29,Yes,428,Cardiology,9,3,Marketing,1,2,Female,52,1,1,Other,2,Single,2760,14630,1,13,3,3,80,0,2,3,3,2,2,2,2
+1196870,33,Yes,211,Cardiology,16,3,Life Sciences,1,1,Female,74,3,3,Nurse,1,Single,8564,10092,2,20,4,3,80,0,11,2,2,0,0,0,0
+1872248,31,Yes,1079,Cardiology,16,4,Marketing,1,1,Male,70,3,3,Nurse,3,Married,8161,19002,2,13,3,1,80,3,10,2,3,1,0,0,0
+1581569,43,Yes,807,Maternity,17,3,Technical Degree,1,3,Male,38,2,1,Other,3,Married,2437,15587,9,16,3,4,80,1,6,4,3,1,0,0,0
+1193818,21,Yes,337,Cardiology,7,1,Marketing,1,2,Male,31,3,1,Other,2,Single,2679,4567,1,13,3,2,80,0,1,3,3,1,0,1,0
+1241701,22,Yes,1294,Maternity,8,1,Medical,1,3,Female,79,3,1,Nurse,1,Married,2398,15999,1,17,3,3,80,0,1,6,3,1,0,0,0
+1563500,35,Yes,303,Cardiology,27,3,Life Sciences,1,3,Male,84,3,2,Nurse,4,Single,5813,13492,1,18,3,4,80,0,10,2,3,10,7,7,7
+1086016,18,Yes,1431,Neurology,14,3,Medical,1,2,Female,33,3,1,Other,3,Single,1514,8018,1,16,3,3,80,0,0,4,1,0,0,0,0
+1235468,29,Yes,350,Neurology,13,3,Human Resources,1,1,Male,56,2,1,Other,1,Divorced,2335,3157,4,15,3,4,80,3,4,3,3,2,2,2,0
+1458226,32,Yes,414,Cardiology,2,4,Marketing,1,3,Male,82,2,2,Nurse,2,Single,9907,26186,7,12,3,3,80,0,7,3,2,2,2,2,2
+1329673,29,Yes,459,Neurology,24,2,Life Sciences,1,4,Male,73,2,1,Other,4,Single,2439,14753,1,24,4,2,80,0,1,3,2,1,0,1,0
+1609966,30,Yes,945,Cardiology,9,3,Medical,1,2,Male,89,3,1,Other,4,Single,1081,16019,1,13,3,3,80,0,1,3,2,1,0,0,0
+1242148,22,Yes,391,Neurology,7,1,Life Sciences,1,4,Male,75,3,1,Other,2,Single,2472,26092,1,23,4,1,80,0,1,2,3,1,0,0,0
+1738269,34,Yes,967,Neurology,16,4,Technical Degree,1,4,Male,85,1,1,Other,1,Married,2307,14460,1,23,4,2,80,1,5,2,3,5,2,3,0
+1557030,56,Yes,1162,Neurology,24,2,Life Sciences,1,1,Male,97,3,1,Nurse,4,Single,2587,10261,1,16,3,4,80,0,5,3,3,4,2,1,0
+1745305,29,Yes,746,Cardiology,24,3,Technical Degree,1,3,Male,45,4,1,Other,1,Single,1091,10642,1,17,3,4,80,0,1,3,3,1,0,0,0
+1603368,28,Yes,1475,Cardiology,13,2,Marketing,1,4,Female,84,3,2,Nurse,3,Single,9854,23352,3,11,3,4,80,0,6,0,3,2,0,2,2
+1683886,32,Yes,238,Neurology,5,2,Life Sciences,1,1,Female,47,4,1,Other,3,Single,2432,15318,3,14,3,1,80,0,8,2,3,4,1,0,3
+1265759,27,Yes,1337,Neurology,22,3,Human Resources,1,1,Female,58,2,1,Other,2,Married,2863,19555,1,12,3,1,80,0,1,2,3,1,0,0,0
+1370524,31,Yes,754,Cardiology,26,4,Marketing,1,1,Male,63,3,2,Nurse,4,Married,5617,21075,1,11,3,3,80,0,10,4,3,10,7,0,8
+1232169,53,Yes,1168,Cardiology,24,4,Life Sciences,1,1,Male,66,3,3,Nurse,1,Single,10448,5843,6,13,3,2,80,0,15,2,2,2,2,2,2
+1859445,21,Yes,501,Cardiology,5,1,Medical,1,3,Male,58,3,1,Other,1,Single,2380,25479,1,11,3,4,80,0,2,6,3,2,2,1,2
+1782969,23,Yes,638,Cardiology,9,3,Marketing,1,4,Male,33,3,1,Other,1,Married,1790,26956,1,19,3,1,80,1,1,3,2,1,0,1,0
+1284416,56,No,667,Neurology,1,4,Life Sciences,1,3,Male,57,3,2,Nurse,3,Divorced,6306,26236,1,21,4,1,80,1,13,2,2,13,12,1,9
+1191013,29,Yes,1092,Neurology,1,4,Medical,1,1,Male,36,3,1,Other,4,Married,4787,26124,9,14,3,2,80,3,4,3,4,2,2,2,2
+1061493,42,No,300,Neurology,2,3,Life Sciences,1,1,Male,56,3,5,Administrative,3,Married,18880,17312,5,11,3,1,80,0,24,2,2,22,6,4,14
+1197297,56,No,310,Neurology,7,2,Technical Degree,1,4,Male,72,3,1,Nurse,3,Married,2339,3666,8,11,3,4,80,1,14,4,1,10,9,9,8
+1065630,41,No,582,Cardiology,28,4,Life Sciences,1,1,Female,60,2,4,Therapist,2,Married,13570,5640,0,23,4,3,80,1,21,3,3,20,7,0,10
+1293237,50,Yes,410,Cardiology,28,3,Marketing,1,4,Male,39,2,3,Nurse,1,Divorced,10854,16586,4,13,3,2,80,1,20,3,3,3,2,2,0
+1162185,28,Yes,773,Maternity,6,3,Life Sciences,1,3,Male,39,2,1,Nurse,3,Divorced,2703,22088,1,14,3,4,80,1,3,2,3,3,1,0,2
+1168729,19,Yes,303,Neurology,2,3,Life Sciences,1,2,Male,47,2,1,Nurse,4,Single,1102,9241,1,22,4,3,80,0,1,3,2,1,0,1,0
+1544044,31,Yes,754,Cardiology,26,4,Marketing,1,1,Male,63,3,2,Nurse,4,Married,5617,21075,1,11,3,3,80,0,10,4,3,10,7,0,8
+1114030,37,Yes,1252,Cardiology,19,2,Medical,1,1,Male,32,3,3,Nurse,2,Single,7642,4814,1,13,3,4,80,0,10,2,3,10,0,0,9
+1751929,22,Yes,1256,Maternity,3,4,Life Sciences,1,3,Male,48,2,1,Nurse,4,Married,2853,4223,0,11,3,2,80,1,1,5,3,0,0,0,0
+1267282,31,Yes,202,Maternity,8,3,Life Sciences,1,1,Female,34,2,1,Nurse,2,Single,1261,22262,1,12,3,3,80,0,1,3,4,1,0,0,0
+1855095,27,Yes,1297,Neurology,5,2,Life Sciences,1,4,Female,53,3,1,Nurse,4,Single,2379,19826,0,14,3,3,80,0,6,3,2,5,4,0,2
+1837772,26,Yes,1443,Cardiology,23,3,Marketing,1,3,Female,47,2,2,Nurse,4,Married,4157,21436,7,19,3,3,80,1,5,2,2,2,2,0,0
+1704323,29,Yes,341,Cardiology,1,3,Medical,1,2,Female,48,2,1,Other,3,Divorced,2800,23522,6,19,3,3,80,3,5,3,3,3,2,0,2
+1622091,26,Yes,265,Cardiology,29,2,Medical,1,2,Male,79,1,2,Nurse,1,Single,4969,21813,8,18,3,4,80,0,7,6,3,2,2,2,2
+1734708,31,Yes,1060,Cardiology,1,3,Life Sciences,1,4,Female,54,3,1,Other,2,Single,2302,8319,1,11,3,1,80,0,3,2,4,3,2,2,2
+1747750,29,Yes,942,Maternity,15,1,Life Sciences,1,2,Female,69,1,1,Nurse,4,Married,2168,26933,0,18,3,1,80,1,6,2,2,5,4,1,3
+1341748,26,Yes,426,Neurology,17,4,Life Sciences,1,2,Female,58,3,1,Other,3,Divorced,2741,22808,0,11,3,2,80,1,8,2,2,7,7,1,0
+1415325,23,Yes,1243,Neurology,6,3,Life Sciences,1,3,Male,63,4,1,Nurse,1,Married,1601,3445,1,21,4,3,80,2,1,2,3,0,0,0,0
+1663404,34,Yes,790,Cardiology,24,4,Medical,1,1,Female,40,2,2,Nurse,2,Single,4599,7815,0,23,4,3,80,0,16,2,4,15,9,10,10
+1549806,21,Yes,251,Neurology,10,2,Life Sciences,1,1,Female,45,2,1,Nurse,3,Single,2625,25308,1,20,4,3,80,0,2,2,1,2,2,2,2
+1874133,31,Yes,1276,Neurology,2,1,Medical,1,4,Female,59,1,1,Nurse,4,Divorced,1129,17536,1,11,3,3,80,3,1,4,3,1,0,0,0
+1175959,28,Yes,329,Neurology,24,3,Medical,1,3,Male,51,3,1,Nurse,2,Married,2408,7324,1,17,3,3,80,3,1,3,3,1,1,0,0
+1655666,20,Yes,871,Neurology,6,3,Life Sciences,1,4,Female,66,2,1,Nurse,4,Single,2926,19783,1,18,3,2,80,0,1,5,3,1,0,1,0
+1602218,33,Yes,1017,Maternity,25,3,Medical,1,1,Male,55,2,1,Nurse,2,Single,2313,2993,4,20,4,2,80,0,5,0,3,2,2,2,2
+1336016,28,Yes,654,Maternity,1,2,Life Sciences,1,1,Female,67,1,1,Nurse,2,Single,2216,3872,7,13,3,4,80,0,10,4,3,7,7,3,7
+1117656,26,Yes,471,Neurology,24,3,Technical Degree,1,3,Male,66,1,1,Nurse,4,Single,2340,23213,1,18,3,2,80,0,1,3,1,1,0,0,0
